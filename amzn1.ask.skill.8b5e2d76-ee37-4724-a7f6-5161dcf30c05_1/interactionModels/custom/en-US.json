@@ -1,0 +1,235 @@
+{
+  "interactionModel": {
+    "dialog": {
+      "intents": [
+        {
+          "slots": [
+            {
+              "name": "course_subject_abbreviation",
+              "elicitationRequired": true,
+              "type": "course_subject_abbreviation",
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.253921024998.594913927004"
+              }
+            },
+            {
+              "name": "course_number",
+              "elicitationRequired": true,
+              "type": "AMAZON.NUMBER",
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.253921024998.291152406842"
+              }
+            },
+            {
+              "name": "professor_name",
+              "elicitationRequired": false,
+              "type": "AMAZON.AlphaNumeric",
+              "confirmationRequired": false,
+              "prompts": {}
+            }
+          ],
+          "name": "GetRequiredTextbookIntent",
+          "confirmationRequired": true,
+          "prompts": {
+            "confirmation": "Confirm.Intent.779602860614"
+          }
+        }
+      ],
+      "delegationStrategy": "ALWAYS"
+    },
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [
+            {
+              "name": "course_subject_abbreviation",
+              "type": "course_subject_abbreviation",
+              "samples": [
+                "{course_subject_abbreviation} is the subject",
+                "oh the subject is {course_subject_abbreviation}",
+                "{course_subject_abbreviation}"
+              ]
+            },
+            {
+              "name": "course_number",
+              "type": "AMAZON.NUMBER",
+              "samples": [
+                "The course number is {course_number}"
+              ]
+            },
+            {
+              "name": "professor_name",
+              "type": "AMAZON.AlphaNumeric"
+            }
+          ],
+          "name": "GetRequiredTextbookIntent",
+          "samples": [
+            "get books",
+            "find the books I need for a class",
+            "find books for my class",
+            "I need to find textbooks for a class",
+            "can you tell me what books I need for {course_subject_abbreviation} {course_number}",
+            "find the textbooks i need for {course_subject_abbreviation} {course_number}",
+            "does {professor_name} require any books for {course_subject_abbreviation} {course_number}",
+            "are there any books i need for {course_subject_abbreviation} {course_number} with {professor_name}",
+            "are there any books i need for {course_subject_abbreviation} {course_number}",
+            "get books for {course_subject_abbreviation} {course_number} with {professor_name}",
+            "get books for {course_subject_abbreviation} {course_number}",
+            "get textbooks for {course_subject_abbreviation} {course_number} with {professor_name}",
+            "get textbooks for {course_subject_abbreviation} {course_number}",
+            "Does {professor_name} require any textbooks for {course_subject_abbreviation} {course_number}",
+            "I\u0027m taking {course_subject_abbreviation} {course_number} is there anything I need",
+            "What book do I need for {course_subject_abbreviation} {course_number} with {professor_name}",
+            "are there any required textbooks for {course_subject_abbreviation} {course_number}",
+            "For {course_subject_abbreviation} {course_number} what do I need",
+            "What book do I need for {course_subject_abbreviation} {course_number} "
+          ]
+        }
+      ],
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "Mathematics"
+              }
+            },
+            {
+              "name": {
+                "value": "Biology"
+              }
+            },
+            {
+              "name": {
+                "value": "Chemistry"
+              }
+            },
+            {
+              "name": {
+                "value": "Computer Science"
+              }
+            },
+            {
+              "name": {
+                "value": "English"
+              }
+            },
+            {
+              "name": {
+                "value": "History"
+              }
+            },
+            {
+              "name": {
+                "value": "HIST"
+              }
+            },
+            {
+              "name": {
+                "value": "COMP"
+              }
+            },
+            {
+              "name": {
+                "value": "ENGL"
+              }
+            },
+            {
+              "name": {
+                "value": "CHEM"
+              }
+            },
+            {
+              "name": {
+                "value": "MATH"
+              }
+            },
+            {
+              "name": {
+                "value": "BIOL"
+              }
+            }
+          ],
+          "name": "course_subject_abbreviation"
+        }
+      ],
+      "invocationName": "speech textbook"
+    },
+    "prompts": [
+      {
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "What is your class\u0027s subject You can give the abbreviation like COMP or say Computer Science"
+          },
+          {
+            "type": "PlainText",
+            "value": "What subject is the course number {course_number} for?"
+          }
+        ],
+        "id": "Elicit.Slot.253921024998.594913927004"
+      },
+      {
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "What is the course number?"
+          },
+          {
+            "type": "PlainText",
+            "value": "The subject is {course_subject_abbreviation}  but what is the course number"
+          }
+        ],
+        "id": "Elicit.Slot.253921024998.291152406842"
+      },
+      {
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "You\u0027re looking for textbooks for {course_subject_abbreviation} {course_number} with {professor_name} is that correct"
+          },
+          {
+            "type": "PlainText",
+            "value": "So we are looking for textbooks for {course_subject_abbreviation} {course_number} is that correct"
+          }
+        ],
+        "id": "Confirm.Intent.779602860614"
+      }
+    ]
+  }
+}
