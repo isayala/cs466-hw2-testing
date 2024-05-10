@@ -1,0 +1,1001 @@
+course_subject,course_subject_abbreviation,course_number,course_title,professor_name,price,required_textbook
+Biology,BIOL,159,Environmental Science,Faulkner Titcombe,$39.17,Computer Science Fundamentals
+English,ENGL,876,Introduction to Psychology,Shara Tynemouth,$130.97,Computer Science Fundamentals
+History,HIST,769,Introduction to Economics,Johannah Foad,$91.11,Computer Science Fundamentals
+Computer Science,COMP,884,Environmental Science,Marti Adamsson,$141.18,Introduction to Biology
+History,HIST,154,Music Theory,Derwin Matchitt,$133.56,Sociology in the Modern World
+History,HIST,974,Computer Science 101,Aarika Stanfield,$104.04,Business Ethics and Leadership
+English,ENGL,554,Computer Science 101,Silvanus Renehan,$51.54,Literature Through the Ages
+Mathematics,MATH,736,Creative Writing Workshop,Reyna Josefsohn,$53.76,Business Ethics and Leadership
+History,HIST,914,Introduction to Psychology,Mandie Milson,$147.10,Computer Science Fundamentals
+Mathematics,MATH,761,Introduction to Psychology,Benedikta Akers,$83.37,Business Ethics and Leadership
+English,ENGL,848,Mathematics for Business,Marjy Wynett,$50.88,Chemistry for Beginners
+History,HIST,363,Introduction to Psychology,Donielle Ohm,$73.85,Literature Through the Ages
+Biology,BIOL,192,Environmental Science,Rochester Dyball,$56.62,Computer Science Fundamentals
+History,HIST,211,Creative Writing Workshop,Gwyneth Wellum,$55.89,Physics: Concepts and Applications
+Computer Science,COMP,272,Mathematics for Business,Jenine Deegin,$79.60,Mathematics: A Practical Approach
+Chemistry,CHEM,560,Creative Writing Workshop,Rae Snufflebottom,$66.02,History of Ancient Civilizations
+English,ENGL,485,Public Speaking,Jermaine Keenan,$45.78,Sociology in the Modern World
+Biology,BIOL,628,Introduction to Psychology,Olga Stubbley,$63.24,Introduction to Biology
+English,ENGL,141,Creative Writing Workshop,Drusy Matushenko,$59.65,Literature Through the Ages
+English,ENGL,288,Introduction to Economics,Burton Milbank,$116.60,Psychology: Understanding the Mind
+Chemistry,CHEM,296,History of Art,Zea Knellen,$36.49,Chemistry for Beginners
+History,HIST,704,Introduction to Economics,Amberly Hobbert,$122.96,Chemistry for Beginners
+English,ENGL,500,Creative Writing Workshop,Denna Deane,$45.62,Physics: Concepts and Applications
+Mathematics,MATH,561,History of Art,Deeanne Elt,$53.29,Physics: Concepts and Applications
+Biology,BIOL,389,Creative Writing Workshop,Merv Ortell,$48.64,Sociology in the Modern World
+Biology,BIOL,351,Music Theory,Antonietta Correa,$79.88,Introduction to Biology
+Biology,BIOL,990,History of Art,Frank Bold,$149.76,Chemistry for Beginners
+Mathematics,MATH,698,Introduction to Sociology,Maureene Pinkstone,$147.32,Business Ethics and Leadership
+English,ENGL,383,Public Speaking,Rawley Samet,$103.89,Computer Science Fundamentals
+English,ENGL,993,Computer Science 101,Callie Simecek,$123.55,Psychology: Understanding the Mind
+Biology,BIOL,655,Public Speaking,Giulio Robbert,$45.59,Mathematics: A Practical Approach
+English,ENGL,487,History of Art,Moritz Eggins,$108.45,Literature Through the Ages
+Biology,BIOL,282,Public Speaking,Gussi Mably,$53.31,Introduction to Biology
+History,HIST,990,Creative Writing Workshop,Asa Mc Menamin,$80.23,Literature Through the Ages
+Computer Science,COMP,218,Introduction to Psychology,Alexander Enrique,$100.38,Business Ethics and Leadership
+Chemistry,CHEM,121,Environmental Science,Dill Tremayle,$57.13,Mathematics: A Practical Approach
+English,ENGL,540,History of Art,Reider Bancroft,$110.80,Business Ethics and Leadership
+Biology,BIOL,801,Mathematics for Business,Antonella Bunner,$69.50,Computer Science Fundamentals
+Mathematics,MATH,654,Environmental Science,Bella Attoc,$135.16,Computer Science Fundamentals
+Mathematics,MATH,271,Computer Science 101,Juana Linacre,$147.64,Chemistry for Beginners
+Mathematics,MATH,573,Music Theory,Rafaela Kondrat,$35.28,History of Ancient Civilizations
+Biology,BIOL,545,History of Art,Gaven Flowitt,$80.55,Business Ethics and Leadership
+Computer Science,COMP,101,Introduction to Psychology,Sibby Raffeorty,$71.38,Chemistry for Beginners
+Computer Science,COMP,939,Introduction to Psychology,Marena Ashwell,$62.60,Mathematics: A Practical Approach
+Biology,BIOL,110,Environmental Science,Donny Muttock,$142.15,Physics: Concepts and Applications
+History,HIST,861,History of Art,Odey Heard,$58.02,Literature Through the Ages
+Biology,BIOL,830,Creative Writing Workshop,Yanaton Groveham,$71.63,Sociology in the Modern World
+English,ENGL,568,Computer Science 101,Matty Borres,$113.20,Psychology: Understanding the Mind
+Biology,BIOL,604,History of Art,Carlina Cauley,$98.82,Literature Through the Ages
+Computer Science,COMP,705,Introduction to Economics,Gennifer Debell,$50.63,Chemistry for Beginners
+History,HIST,360,Computer Science 101,Lorita Reasun,$89.07,Sociology in the Modern World
+Computer Science,COMP,765,Creative Writing Workshop,Kissiah Sallery,$138.21,Business Ethics and Leadership
+Chemistry,CHEM,171,Creative Writing Workshop,Dicky Parks,$31.17,Chemistry for Beginners
+Chemistry,CHEM,778,Computer Science 101,Donal Lonie,$93.09,Physics: Concepts and Applications
+Computer Science,COMP,840,Public Speaking,Merci Ropert,$82.37,Sociology in the Modern World
+Chemistry,CHEM,684,Creative Writing Workshop,Laetitia Eisold,$72.36,Mathematics: A Practical Approach
+English,ENGL,914,Music Theory,Morgana Gritsunov,$144.18,Computer Science Fundamentals
+Chemistry,CHEM,224,Introduction to Psychology,Terrie Welberry,$147.73,Sociology in the Modern World
+English,ENGL,403,Computer Science 101,Avivah Birds,$139.25,Chemistry for Beginners
+Mathematics,MATH,767,Introduction to Psychology,Trever Snowball,$51.58,Introduction to Biology
+Computer Science,COMP,663,Introduction to Sociology,Daria Zorzutti,$113.84,Literature Through the Ages
+English,ENGL,947,Introduction to Economics,Kip Boughtflower,$31.45,Sociology in the Modern World
+English,ENGL,820,Environmental Science,Jesse Budleigh,$63.19,History of Ancient Civilizations
+Biology,BIOL,222,Introduction to Economics,Samantha McDool,$73.88,Literature Through the Ages
+Mathematics,MATH,673,Computer Science 101,Cammi Toopin,$62.39,History of Ancient Civilizations
+Chemistry,CHEM,251,Mathematics for Business,Avrom Tupp,$133.28,Physics: Concepts and Applications
+Mathematics,MATH,346,Introduction to Psychology,Jules Lyven,$71.42,Business Ethics and Leadership
+History,HIST,478,Creative Writing Workshop,Marley Starkings,$120.86,History of Ancient Civilizations
+English,ENGL,458,Creative Writing Workshop,Aridatha McCuis,$58.86,Mathematics: A Practical Approach
+Chemistry,CHEM,790,History of Art,Nessy Speller,$137.49,Introduction to Biology
+English,ENGL,760,Public Speaking,Patrice Grigorini,$111.74,Literature Through the Ages
+Chemistry,CHEM,518,Introduction to Economics,Tybi Aishford,$126.54,Physics: Concepts and Applications
+Computer Science,COMP,773,Public Speaking,Hilton Spileman,$84.09,Psychology: Understanding the Mind
+English,ENGL,650,Introduction to Psychology,Conny Simenet,$84.48,Mathematics: A Practical Approach
+Biology,BIOL,103,Music Theory,Claudio Peacop,$147.27,Computer Science Fundamentals
+Chemistry,CHEM,845,Introduction to Psychology,Marie-ann Eisold,$126.23,Introduction to Biology
+English,ENGL,713,Introduction to Sociology,Ev Glas,$108.47,Sociology in the Modern World
+History,HIST,246,History of Art,Stoddard Zealy,$143.03,Chemistry for Beginners
+Mathematics,MATH,935,Music Theory,Alva Walkey,$98.17,Computer Science Fundamentals
+Chemistry,CHEM,761,Computer Science 101,Heinrik MacDonell,$98.44,History of Ancient Civilizations
+History,HIST,340,Computer Science 101,Jerrilyn Caldera,$53.75,Psychology: Understanding the Mind
+Computer Science,COMP,504,Computer Science 101,Alisun Spriddle,$117.62,Introduction to Biology
+Computer Science,COMP,321,History of Art,Gavan Cunnington,$89.06,Sociology in the Modern World
+History,HIST,540,Introduction to Psychology,Augy Sayer,$75.98,Physics: Concepts and Applications
+Biology,BIOL,439,Introduction to Economics,Devinne Verheijden,$86.76,History of Ancient Civilizations
+Chemistry,CHEM,416,Computer Science 101,Nonna Ricart,$145.56,Literature Through the Ages
+Computer Science,COMP,700,Environmental Science,Miriam Sipson,$125.07,History of Ancient Civilizations
+History,HIST,458,Introduction to Psychology,Myrlene Jados,$132.72,Computer Science Fundamentals
+English,ENGL,872,History of Art,Samson McElmurray,$59.81,Psychology: Understanding the Mind
+History,HIST,233,Public Speaking,Tulley Aronov,$106.64,Sociology in the Modern World
+English,ENGL,771,Computer Science 101,Roby Kobpac,$94.26,History of Ancient Civilizations
+Mathematics,MATH,814,Mathematics for Business,Kerry Woodwind,$114.50,Computer Science Fundamentals
+Mathematics,MATH,949,Mathematics for Business,Wilmer Cochet,$51.13,Introduction to Biology
+English,ENGL,397,Computer Science 101,Aldric Backhurst,$109.39,Mathematics: A Practical Approach
+Mathematics,MATH,662,Mathematics for Business,Felita Fawthrop,$138.52,Chemistry for Beginners
+Biology,BIOL,314,Computer Science 101,Audie Old,$95.63,Computer Science Fundamentals
+Chemistry,CHEM,749,Creative Writing Workshop,Annabella Stolberger,$49.38,Literature Through the Ages
+History,HIST,588,History of Art,Mort Beaman,$73.09,Physics: Concepts and Applications
+Chemistry,CHEM,320,Creative Writing Workshop,Georgie Duell,$48.82,Chemistry for Beginners
+Biology,BIOL,985,Introduction to Sociology,Shem Coarser,$97.22,Mathematics: A Practical Approach
+Computer Science,COMP,366,Mathematics for Business,Kailey Larimer,$30.27,Introduction to Biology
+Chemistry,CHEM,271,History of Art,Clem Yitzovitz,$113.81,Business Ethics and Leadership
+Computer Science,COMP,823,Creative Writing Workshop,Blinny Canacott,$97.75,Computer Science Fundamentals
+Chemistry,CHEM,158,Introduction to Economics,Lian Janek,$119.17,Mathematics: A Practical Approach
+History,HIST,627,Public Speaking,Sandor Harnetty,$59.09,Psychology: Understanding the Mind
+English,ENGL,837,Public Speaking,Randi Silkstone,$43.29,Computer Science Fundamentals
+Chemistry,CHEM,203,Introduction to Economics,Janeczka Jakubovicz,$140.18,Computer Science Fundamentals
+History,HIST,626,Introduction to Economics,Celene Eastby,$136.32,Sociology in the Modern World
+Computer Science,COMP,889,Music Theory,Lucais Ballam,$83.45,History of Ancient Civilizations
+Mathematics,MATH,582,Introduction to Sociology,Darwin Tison,$139.42,Computer Science Fundamentals
+Computer Science,COMP,292,History of Art,Gennifer Fergie,$101.32,Psychology: Understanding the Mind
+English,ENGL,907,Introduction to Psychology,Minta Wasielewicz,$77.74,Introduction to Biology
+History,HIST,842,History of Art,Neddy MacSporran,$113.39,Mathematics: A Practical Approach
+Chemistry,CHEM,438,Mathematics for Business,Laina Loughman,$145.41,Psychology: Understanding the Mind
+Mathematics,MATH,254,Introduction to Psychology,Chrysa Jefferies,$126.51,Mathematics: A Practical Approach
+Computer Science,COMP,318,Environmental Science,Wesley Keetley,$38.41,Sociology in the Modern World
+English,ENGL,735,Music Theory,Royce Brecknock,$135.74,History of Ancient Civilizations
+Biology,BIOL,331,Environmental Science,Terri Trude,$66.09,Mathematics: A Practical Approach
+Biology,BIOL,650,Environmental Science,Kristopher Burbridge,$86.61,Chemistry for Beginners
+Computer Science,COMP,225,Introduction to Economics,Jakie Willcot,$129.75,Literature Through the Ages
+Chemistry,CHEM,771,Introduction to Sociology,Ardis Mooney,$56.76,Psychology: Understanding the Mind
+English,ENGL,794,Public Speaking,Julina Stailey,$45.20,Sociology in the Modern World
+History,HIST,852,Music Theory,Angus Barnewille,$59.98,History of Ancient Civilizations
+Computer Science,COMP,663,Introduction to Economics,Colline Carmen,$56.53,Introduction to Biology
+History,HIST,903,Introduction to Sociology,Joanie Haugeh,$61.47,Introduction to Biology
+Computer Science,COMP,107,Mathematics for Business,Peria Gribbin,$42.98,Chemistry for Beginners
+Computer Science,COMP,154,Introduction to Sociology,Aile Hourstan,$137.63,Business Ethics and Leadership
+Mathematics,MATH,540,Creative Writing Workshop,Lewes Foulcher,$62.52,Mathematics: A Practical Approach
+History,HIST,578,Public Speaking,Terry Cleare,$83.53,Physics: Concepts and Applications
+Mathematics,MATH,325,Introduction to Psychology,Bram Kacheler,$34.82,Business Ethics and Leadership
+Computer Science,COMP,135,Environmental Science,Malia Di Lucia,$93.09,Sociology in the Modern World
+History,HIST,793,Environmental Science,Roscoe Kynnd,$119.08,Mathematics: A Practical Approach
+English,ENGL,731,Public Speaking,Sherlock Castanie,$142.41,Business Ethics and Leadership
+Chemistry,CHEM,265,Computer Science 101,Valencia Brozsset,$110.13,History of Ancient Civilizations
+History,HIST,190,Introduction to Economics,Emory Kneafsey,$63.64,Introduction to Biology
+English,ENGL,822,Introduction to Economics,Burk Philippe,$91.66,Introduction to Biology
+Computer Science,COMP,618,Computer Science 101,Hertha Brotheridge,$84.87,Physics: Concepts and Applications
+Mathematics,MATH,132,Creative Writing Workshop,Annora Burel,$61.34,History of Ancient Civilizations
+English,ENGL,618,Introduction to Sociology,Gun Ridley,$100.04,Introduction to Biology
+English,ENGL,914,Music Theory,Martguerita Seyers,$80.71,Physics: Concepts and Applications
+English,ENGL,626,History of Art,Bertine Lindelof,$138.99,Sociology in the Modern World
+Chemistry,CHEM,825,Environmental Science,Ursa Spehr,$147.53,Introduction to Biology
+English,ENGL,387,History of Art,Sherline Dickenson,$92.38,Introduction to Biology
+Mathematics,MATH,543,Introduction to Sociology,Barnabe Muston,$72.35,Introduction to Biology
+Chemistry,CHEM,965,Music Theory,Wally Malam,$89.91,Business Ethics and Leadership
+History,HIST,402,Environmental Science,Meyer Folder,$127.93,Literature Through the Ages
+History,HIST,503,Introduction to Sociology,Greggory Carlan,$92.19,Chemistry for Beginners
+Computer Science,COMP,756,Creative Writing Workshop,Colly Sprosson,$125.03,Mathematics: A Practical Approach
+Mathematics,MATH,487,Creative Writing Workshop,Doreen Tibbs,$104.83,Psychology: Understanding the Mind
+Mathematics,MATH,532,Introduction to Psychology,Zara Jarrette,$73.93,Psychology: Understanding the Mind
+History,HIST,420,History of Art,Roxanna Eingerfield,$41.22,Chemistry for Beginners
+Computer Science,COMP,993,Public Speaking,Caryl Callander,$125.99,Physics: Concepts and Applications
+English,ENGL,975,History of Art,Morgen O'Connell,$35.35,Chemistry for Beginners
+History,HIST,332,Mathematics for Business,Ginnie Nano,$128.01,Sociology in the Modern World
+History,HIST,328,History of Art,Mab Lockwood,$30.28,History of Ancient Civilizations
+Mathematics,MATH,254,Mathematics for Business,Cristine Rizzelli,$51.91,Literature Through the Ages
+Chemistry,CHEM,145,Computer Science 101,Arvie Chamberlin,$89.09,Introduction to Biology
+Mathematics,MATH,300,Music Theory,Nils Done,$55.48,Mathematics: A Practical Approach
+Biology,BIOL,324,History of Art,Obediah Doxsey,$83.33,Sociology in the Modern World
+Chemistry,CHEM,202,Computer Science 101,Alla Glazebrook,$75.84,Computer Science Fundamentals
+Mathematics,MATH,109,Environmental Science,Marlowe Rossant,$54.21,Chemistry for Beginners
+Biology,BIOL,809,Introduction to Sociology,Brandea Huckfield,$54.74,Computer Science Fundamentals
+Chemistry,CHEM,826,Introduction to Sociology,Lyndell Crambie,$68.40,Business Ethics and Leadership
+Biology,BIOL,455,Creative Writing Workshop,Hally Filde,$149.89,Chemistry for Beginners
+Mathematics,MATH,605,Mathematics for Business,Lou Riediger,$105.00,Psychology: Understanding the Mind
+Biology,BIOL,601,Environmental Science,Kandace Trime,$123.07,Physics: Concepts and Applications
+Mathematics,MATH,273,Introduction to Economics,Augustin Agirre,$32.15,Physics: Concepts and Applications
+Computer Science,COMP,507,Introduction to Economics,Rubina Kiezler,$149.18,Sociology in the Modern World
+Mathematics,MATH,568,History of Art,Danni Dean,$51.91,Sociology in the Modern World
+Mathematics,MATH,247,Environmental Science,Dukey Adne,$123.60,Chemistry for Beginners
+Computer Science,COMP,974,Public Speaking,Fidole Basini-Gazzi,$80.89,Literature Through the Ages
+Chemistry,CHEM,336,Creative Writing Workshop,Huntley Zoanetti,$79.49,Sociology in the Modern World
+English,ENGL,688,Music Theory,Gusty Stolworthy,$104.37,Sociology in the Modern World
+English,ENGL,803,Music Theory,Iolande Ziem,$88.04,Physics: Concepts and Applications
+History,HIST,747,Introduction to Sociology,Minetta Steptowe,$130.35,Physics: Concepts and Applications
+History,HIST,670,Creative Writing Workshop,Stewart Giacobini,$61.88,Literature Through the Ages
+Mathematics,MATH,117,Introduction to Sociology,Molli Brimfield,$143.05,Introduction to Biology
+Mathematics,MATH,762,Computer Science 101,Geraldine Gillopp,$103.60,Psychology: Understanding the Mind
+Computer Science,COMP,207,Music Theory,Sophi Schleicher,$80.08,History of Ancient Civilizations
+Computer Science,COMP,719,Public Speaking,Sascha Stickins,$144.17,Mathematics: A Practical Approach
+English,ENGL,980,Creative Writing Workshop,Claire Goshawk,$138.49,Mathematics: A Practical Approach
+English,ENGL,717,History of Art,Feliza Tocher,$77.45,Introduction to Biology
+Computer Science,COMP,999,Mathematics for Business,Laurens Tees,$100.01,Sociology in the Modern World
+English,ENGL,526,Computer Science 101,Franzen Knowling,$61.00,Chemistry for Beginners
+English,ENGL,908,Introduction to Psychology,Clarita MacNeill,$129.88,Chemistry for Beginners
+Biology,BIOL,522,Computer Science 101,Ilene Bonnaire,$37.11,Mathematics: A Practical Approach
+English,ENGL,860,Environmental Science,Kizzie Cantwell,$121.11,Psychology: Understanding the Mind
+Computer Science,COMP,374,Introduction to Economics,Emmett Levesley,$145.89,Business Ethics and Leadership
+Chemistry,CHEM,363,History of Art,Merola Arnet,$84.12,Computer Science Fundamentals
+English,ENGL,967,Creative Writing Workshop,Lynnea Westby,$56.24,Business Ethics and Leadership
+Mathematics,MATH,495,Public Speaking,Johannah Wilce,$106.47,Chemistry for Beginners
+Computer Science,COMP,815,Public Speaking,Eleonore Morkham,$125.68,Literature Through the Ages
+History,HIST,956,Introduction to Psychology,Trisha Francois,$84.86,Mathematics: A Practical Approach
+Biology,BIOL,859,Introduction to Psychology,Agosto Brown,$71.01,Mathematics: A Practical Approach
+Mathematics,MATH,384,History of Art,Drucie Penrose,$67.19,Computer Science Fundamentals
+English,ENGL,468,History of Art,Hobie Winthrop,$85.67,Physics: Concepts and Applications
+Chemistry,CHEM,546,Computer Science 101,Frederich Diben,$75.04,Physics: Concepts and Applications
+Mathematics,MATH,465,Computer Science 101,Dyanne Conboy,$76.63,Psychology: Understanding the Mind
+Chemistry,CHEM,644,Public Speaking,Arlyn Burberry,$57.36,Chemistry for Beginners
+Computer Science,COMP,386,Music Theory,Arden Southgate,$135.68,Psychology: Understanding the Mind
+English,ENGL,781,Creative Writing Workshop,Emma D'orsay,$54.01,Sociology in the Modern World
+History,HIST,304,Introduction to Psychology,Sara-ann Bleazard,$40.83,Literature Through the Ages
+Computer Science,COMP,800,Creative Writing Workshop,Storm Santer,$86.66,Introduction to Biology
+English,ENGL,158,Creative Writing Workshop,Meggy Bavage,$40.37,Computer Science Fundamentals
+Chemistry,CHEM,935,Public Speaking,Bentlee Hollingshead,$113.23,Sociology in the Modern World
+English,ENGL,722,History of Art,Dilly Eddington,$38.96,Mathematics: A Practical Approach
+Mathematics,MATH,299,Mathematics for Business,Berton Stobart,$73.01,Business Ethics and Leadership
+Chemistry,CHEM,253,Introduction to Economics,Creigh Coltart,$85.25,Physics: Concepts and Applications
+Mathematics,MATH,551,Public Speaking,Farris Aidler,$84.86,Mathematics: A Practical Approach
+Chemistry,CHEM,867,Creative Writing Workshop,Lanna Haldenby,$97.56,Business Ethics and Leadership
+Mathematics,MATH,280,History of Art,Jerad Iacovo,$133.91,History of Ancient Civilizations
+Chemistry,CHEM,405,Environmental Science,Prudi Celli,$137.71,Computer Science Fundamentals
+Mathematics,MATH,969,Music Theory,Carlee Beilby,$112.06,Mathematics: A Practical Approach
+Chemistry,CHEM,947,Introduction to Psychology,Amelie Anderl,$43.83,Chemistry for Beginners
+Mathematics,MATH,462,Environmental Science,Ula Erat,$102.58,Business Ethics and Leadership
+History,HIST,748,Introduction to Economics,Obediah Curee,$42.53,Physics: Concepts and Applications
+Chemistry,CHEM,353,Environmental Science,Annadiane Fawssett,$59.89,Business Ethics and Leadership
+English,ENGL,753,Public Speaking,Timothy Pilsworth,$105.55,Mathematics: A Practical Approach
+Chemistry,CHEM,357,Introduction to Psychology,Dolph Bellanger,$101.39,Physics: Concepts and Applications
+Chemistry,CHEM,193,Public Speaking,Victoir Varty,$142.62,Literature Through the Ages
+Chemistry,CHEM,391,Introduction to Psychology,Ignaz Miguet,$130.93,Psychology: Understanding the Mind
+Biology,BIOL,317,Mathematics for Business,Yorke Mackro,$90.39,Business Ethics and Leadership
+Computer Science,COMP,742,Public Speaking,Shelton Bande,$119.42,Psychology: Understanding the Mind
+History,HIST,862,History of Art,Joyann Roubert,$126.35,Psychology: Understanding the Mind
+English,ENGL,243,Environmental Science,Neils Jiggins,$114.82,Computer Science Fundamentals
+Biology,BIOL,516,Introduction to Psychology,Galen Halsey,$145.14,Chemistry for Beginners
+English,ENGL,424,Creative Writing Workshop,Lucien Parres,$125.27,Business Ethics and Leadership
+Biology,BIOL,202,Introduction to Sociology,Bear Faragher,$87.27,Introduction to Biology
+Chemistry,CHEM,913,Introduction to Psychology,Vail Millin,$129.29,Physics: Concepts and Applications
+History,HIST,512,Introduction to Psychology,Dorry Philpots,$95.81,Physics: Concepts and Applications
+Biology,BIOL,470,Introduction to Psychology,Emelita Langford,$63.89,Literature Through the Ages
+Mathematics,MATH,979,History of Art,Gregorio Sabatini,$80.81,Sociology in the Modern World
+Chemistry,CHEM,240,Environmental Science,Lenee Noquet,$114.72,Psychology: Understanding the Mind
+Computer Science,COMP,906,Introduction to Economics,Alanna Goldney,$118.01,Introduction to Biology
+English,ENGL,644,Public Speaking,Vera Karoly,$106.07,Sociology in the Modern World
+History,HIST,254,Mathematics for Business,Mariele Pigrome,$85.57,Psychology: Understanding the Mind
+Computer Science,COMP,755,Introduction to Psychology,Iain Epsly,$38.34,Sociology in the Modern World
+Computer Science,COMP,670,Music Theory,Allix Blaschke,$47.82,Physics: Concepts and Applications
+Computer Science,COMP,908,History of Art,Morgen Teodorski,$112.01,Business Ethics and Leadership
+Mathematics,MATH,699,History of Art,Sutherlan Follet,$131.78,Business Ethics and Leadership
+Chemistry,CHEM,960,Public Speaking,Mirna Alger,$145.30,History of Ancient Civilizations
+Biology,BIOL,861,Mathematics for Business,Gertie Instock,$91.65,Computer Science Fundamentals
+Mathematics,MATH,291,History of Art,Taddeusz Felderer,$131.39,Business Ethics and Leadership
+Biology,BIOL,584,Introduction to Sociology,Teri Newsham,$148.29,Sociology in the Modern World
+Chemistry,CHEM,654,Computer Science 101,Pinchas Bougourd,$104.25,Chemistry for Beginners
+History,HIST,992,Computer Science 101,Gibb Cotelard,$64.14,Chemistry for Beginners
+English,ENGL,916,Creative Writing Workshop,Clarke Bambury,$35.60,Psychology: Understanding the Mind
+Chemistry,CHEM,529,Public Speaking,Rae Tuckwell,$79.70,Computer Science Fundamentals
+Computer Science,COMP,225,Introduction to Economics,Raul Kinastan,$32.27,History of Ancient Civilizations
+History,HIST,791,Introduction to Psychology,Lucita Bilton,$88.42,Business Ethics and Leadership
+Chemistry,CHEM,412,Public Speaking,Giffer Rable,$127.31,Introduction to Biology
+History,HIST,478,Computer Science 101,Gavrielle Seiter,$70.74,Chemistry for Beginners
+Chemistry,CHEM,188,Mathematics for Business,Margareta Slocum,$39.86,Mathematics: A Practical Approach
+Chemistry,CHEM,926,Public Speaking,Sheena Gray,$70.06,Sociology in the Modern World
+Biology,BIOL,383,History of Art,Jaynell Grundon,$49.18,Computer Science Fundamentals
+Computer Science,COMP,121,Computer Science 101,Charity Girardetti,$110.54,Psychology: Understanding the Mind
+Chemistry,CHEM,801,Creative Writing Workshop,Lolita Lanegran,$91.70,Sociology in the Modern World
+Computer Science,COMP,983,Introduction to Sociology,Benedetta Brigginshaw,$125.45,Sociology in the Modern World
+Mathematics,MATH,585,Introduction to Sociology,Loni Dykas,$133.37,Business Ethics and Leadership
+Chemistry,CHEM,538,Creative Writing Workshop,Analiese Whitecross,$86.72,Psychology: Understanding the Mind
+History,HIST,317,Introduction to Economics,Ingunna Doogood,$133.54,Chemistry for Beginners
+Biology,BIOL,550,Public Speaking,Stevana Flohard,$58.59,Computer Science Fundamentals
+Chemistry,CHEM,149,Public Speaking,Jeannie Noone,$64.61,Business Ethics and Leadership
+Chemistry,CHEM,762,Computer Science 101,Teodoor Duddy,$65.04,Literature Through the Ages
+Chemistry,CHEM,307,Public Speaking,Hersh Haberfield,$80.56,Psychology: Understanding the Mind
+English,ENGL,345,Public Speaking,Adams Gremane,$83.49,Mathematics: A Practical Approach
+English,ENGL,998,Computer Science 101,Ula Jobes,$95.44,Sociology in the Modern World
+Chemistry,CHEM,266,Computer Science 101,Clark Ciccone,$45.37,Literature Through the Ages
+Mathematics,MATH,286,History of Art,Jasun Normington,$30.33,Introduction to Biology
+History,HIST,996,Music Theory,Herrick Barrabeale,$79.47,Business Ethics and Leadership
+History,HIST,693,Music Theory,Reade Screwton,$80.13,Computer Science Fundamentals
+Mathematics,MATH,488,Music Theory,Margarete Riggey,$96.36,Introduction to Biology
+Computer Science,COMP,344,History of Art,Lorita Knolles-Green,$78.69,Psychology: Understanding the Mind
+Computer Science,COMP,814,Public Speaking,Alene Mabbe,$109.86,Chemistry for Beginners
+English,ENGL,991,Mathematics for Business,Kelsy Dooman,$63.65,History of Ancient Civilizations
+Chemistry,CHEM,575,Creative Writing Workshop,Lacy Tuplin,$130.50,Sociology in the Modern World
+Computer Science,COMP,914,Music Theory,Ivory Bonar,$82.89,Computer Science Fundamentals
+Mathematics,MATH,479,Public Speaking,Trevar Wycliffe,$123.74,History of Ancient Civilizations
+History,HIST,701,Mathematics for Business,Kliment Abram,$81.39,Business Ethics and Leadership
+English,ENGL,858,Introduction to Psychology,Daveta Ventura,$149.59,Psychology: Understanding the Mind
+English,ENGL,570,Creative Writing Workshop,Trista Bagworth,$41.40,History of Ancient Civilizations
+History,HIST,887,Introduction to Sociology,Ofella Restorick,$56.92,Sociology in the Modern World
+History,HIST,155,History of Art,Ashleigh Sturley,$49.94,Introduction to Biology
+Chemistry,CHEM,948,History of Art,Desmund Robiot,$116.49,Business Ethics and Leadership
+Chemistry,CHEM,903,Introduction to Psychology,Marcello Zanetti,$104.24,History of Ancient Civilizations
+Chemistry,CHEM,718,Mathematics for Business,Nikaniki Haistwell,$49.40,Literature Through the Ages
+History,HIST,219,Music Theory,Horace Rapson,$59.53,Sociology in the Modern World
+Computer Science,COMP,409,Introduction to Psychology,Demetri Ritmeyer,$55.11,Business Ethics and Leadership
+English,ENGL,914,Mathematics for Business,Raina Batt,$77.10,Sociology in the Modern World
+Computer Science,COMP,368,Computer Science 101,Collete Beston,$36.86,Literature Through the Ages
+Mathematics,MATH,708,Introduction to Sociology,Irene Spinozzi,$115.33,Business Ethics and Leadership
+History,HIST,893,Public Speaking,Sharron Carragher,$50.86,Mathematics: A Practical Approach
+English,ENGL,378,Creative Writing Workshop,Willow Kumaar,$74.56,Sociology in the Modern World
+English,ENGL,784,Introduction to Sociology,Leonhard Reven,$30.76,Sociology in the Modern World
+Mathematics,MATH,346,Introduction to Psychology,Stephi Barhem,$59.31,Literature Through the Ages
+Mathematics,MATH,198,Music Theory,Nadiya Ballinger,$130.58,Physics: Concepts and Applications
+Biology,BIOL,632,Introduction to Psychology,Findlay Cantwell,$102.86,History of Ancient Civilizations
+Computer Science,COMP,715,Music Theory,Maud Cockle,$41.50,History of Ancient Civilizations
+Biology,BIOL,310,Introduction to Psychology,Erin Bygott,$87.14,Chemistry for Beginners
+History,HIST,616,Environmental Science,Vinny Metham,$125.26,Literature Through the Ages
+History,HIST,833,Creative Writing Workshop,Dorine Joseland,$147.66,Psychology: Understanding the Mind
+History,HIST,246,History of Art,Clarinda Ambrosi,$45.72,Sociology in the Modern World
+Mathematics,MATH,618,Introduction to Sociology,Klarika Yair,$32.20,Chemistry for Beginners
+Chemistry,CHEM,749,Public Speaking,Roch Tichner,$79.57,Literature Through the Ages
+English,ENGL,254,Mathematics for Business,Marji Keast,$84.53,Introduction to Biology
+Chemistry,CHEM,588,Introduction to Sociology,Haven Melson,$75.48,Literature Through the Ages
+Computer Science,COMP,351,Music Theory,Joyan Duddan,$120.33,Mathematics: A Practical Approach
+Chemistry,CHEM,390,Creative Writing Workshop,Bette Bruyntjes,$112.91,Business Ethics and Leadership
+Computer Science,COMP,494,Introduction to Psychology,Xaviera Al Hirsi,$75.26,Physics: Concepts and Applications
+Biology,BIOL,508,Introduction to Psychology,Giustina Doniso,$91.24,Computer Science Fundamentals
+Biology,BIOL,280,Creative Writing Workshop,Natasha Barsam,$147.73,Business Ethics and Leadership
+Mathematics,MATH,713,Public Speaking,Dacia Matijevic,$149.67,Sociology in the Modern World
+Chemistry,CHEM,534,Introduction to Sociology,Ferguson Jull,$56.50,Psychology: Understanding the Mind
+Chemistry,CHEM,208,Computer Science 101,Ruthe Merdew,$134.81,Business Ethics and Leadership
+History,HIST,604,Mathematics for Business,Ariel Paffley,$36.82,Physics: Concepts and Applications
+Biology,BIOL,970,Introduction to Economics,Layla Vigrass,$55.74,Sociology in the Modern World
+Chemistry,CHEM,408,Computer Science 101,Serene Stoneham,$119.08,History of Ancient Civilizations
+History,HIST,329,Mathematics for Business,Giffer Dennidge,$91.55,Physics: Concepts and Applications
+Mathematics,MATH,297,Introduction to Economics,Mirabella Lezemore,$123.44,Physics: Concepts and Applications
+English,ENGL,237,Environmental Science,Matteo Boothby,$117.21,Chemistry for Beginners
+Mathematics,MATH,746,Introduction to Psychology,Nanci Wordesworth,$54.18,History of Ancient Civilizations
+History,HIST,570,History of Art,Chas Maybury,$102.18,History of Ancient Civilizations
+Mathematics,MATH,976,Creative Writing Workshop,Vivian Boake,$41.85,Psychology: Understanding the Mind
+Biology,BIOL,482,Introduction to Sociology,Tisha Pigrome,$86.47,Chemistry for Beginners
+Chemistry,CHEM,836,Computer Science 101,Monro Elner,$143.62,Psychology: Understanding the Mind
+Mathematics,MATH,393,Introduction to Economics,Tiff Conigsby,$36.36,Computer Science Fundamentals
+Biology,BIOL,556,Mathematics for Business,Cassandry Winspurr,$88.45,Computer Science Fundamentals
+English,ENGL,167,History of Art,Jacquette Justice,$100.46,Literature Through the Ages
+Mathematics,MATH,374,Introduction to Economics,Catriona Palumbo,$82.18,Literature Through the Ages
+Computer Science,COMP,780,Introduction to Psychology,Tremaine Bransom,$114.34,Business Ethics and Leadership
+Biology,BIOL,703,Introduction to Sociology,Milty Eslemont,$97.67,Introduction to Biology
+English,ENGL,613,History of Art,Maynard Tanman,$136.04,Literature Through the Ages
+Computer Science,COMP,426,Mathematics for Business,Linette Phelit,$81.83,Sociology in the Modern World
+Chemistry,CHEM,819,Introduction to Sociology,Fields Greenhaugh,$97.55,Chemistry for Beginners
+English,ENGL,460,History of Art,Emmye Thay,$94.88,History of Ancient Civilizations
+Computer Science,COMP,156,Introduction to Sociology,Shalom Concannon,$119.69,Introduction to Biology
+Biology,BIOL,950,Computer Science 101,Robinetta Leworthy,$47.15,Chemistry for Beginners
+Chemistry,CHEM,510,Creative Writing Workshop,Tuckie Pisculli,$119.77,Computer Science Fundamentals
+Mathematics,MATH,669,Creative Writing Workshop,Ulises Barenski,$37.26,Mathematics: A Practical Approach
+Mathematics,MATH,927,Music Theory,Spence Cornwall,$97.50,Physics: Concepts and Applications
+Computer Science,COMP,398,Mathematics for Business,Ephraim Braddock,$42.52,Chemistry for Beginners
+Mathematics,MATH,743,Mathematics for Business,Fletcher Spilstead,$76.76,Chemistry for Beginners
+English,ENGL,464,Computer Science 101,Demetra Coggings,$50.73,Mathematics: A Practical Approach
+Mathematics,MATH,546,Computer Science 101,Franchot Halliburton,$33.33,History of Ancient Civilizations
+Computer Science,COMP,326,Music Theory,Agnola Haugeh,$90.51,Physics: Concepts and Applications
+Mathematics,MATH,254,Introduction to Psychology,Annecorinne Ranklin,$62.78,Business Ethics and Leadership
+Computer Science,COMP,134,Computer Science 101,Thomasina Louis,$82.00,Chemistry for Beginners
+English,ENGL,640,Introduction to Economics,Berny Passion,$83.68,Computer Science Fundamentals
+English,ENGL,383,Introduction to Psychology,Dania O' Cuolahan,$127.80,Sociology in the Modern World
+Computer Science,COMP,144,Creative Writing Workshop,Nicolais Al Hirsi,$135.14,Chemistry for Beginners
+Chemistry,CHEM,605,Music Theory,Orsa Follet,$31.59,Business Ethics and Leadership
+Biology,BIOL,931,History of Art,Blair Scoone,$96.70,Computer Science Fundamentals
+Mathematics,MATH,337,History of Art,Layla Sperry,$49.74,History of Ancient Civilizations
+Biology,BIOL,584,History of Art,Lilias Nutley,$122.67,Physics: Concepts and Applications
+Computer Science,COMP,715,Public Speaking,Morgen Bauld,$143.91,Chemistry for Beginners
+Biology,BIOL,455,History of Art,Henri Kalberer,$108.41,Sociology in the Modern World
+English,ENGL,636,Introduction to Psychology,Didi Stubbley,$145.14,Literature Through the Ages
+Chemistry,CHEM,535,Music Theory,Clemens Vigneron,$108.79,Business Ethics and Leadership
+Computer Science,COMP,117,Creative Writing Workshop,Stefanie Hedney,$95.74,History of Ancient Civilizations
+Mathematics,MATH,972,Computer Science 101,Gail Salliss,$107.39,Business Ethics and Leadership
+English,ENGL,955,Creative Writing Workshop,Monica Fosten,$52.46,History of Ancient Civilizations
+Chemistry,CHEM,640,Music Theory,Gladi Jellyman,$75.24,Physics: Concepts and Applications
+Computer Science,COMP,138,Creative Writing Workshop,Harriet Strothers,$96.54,History of Ancient Civilizations
+Computer Science,COMP,660,Introduction to Psychology,Dinny Sneesby,$65.48,Computer Science Fundamentals
+Biology,BIOL,801,Introduction to Psychology,Dugald Challin,$43.27,Introduction to Biology
+Computer Science,COMP,919,Public Speaking,Wyn McEttigen,$68.51,Physics: Concepts and Applications
+Chemistry,CHEM,207,Introduction to Psychology,Brod Gabbot,$76.74,Literature Through the Ages
+Computer Science,COMP,528,Introduction to Economics,Fitz Kloisner,$74.76,Literature Through the Ages
+Biology,BIOL,756,Introduction to Economics,Engracia Cansdall,$84.05,History of Ancient Civilizations
+Chemistry,CHEM,652,Creative Writing Workshop,Lombard Fanton,$88.60,Literature Through the Ages
+Computer Science,COMP,228,Mathematics for Business,Frasquito Cosh,$77.39,Mathematics: A Practical Approach
+Computer Science,COMP,105,Music Theory,Phoebe Lamb,$109.86,Psychology: Understanding the Mind
+Biology,BIOL,710,Environmental Science,Georgena Sandells,$137.62,Computer Science Fundamentals
+Chemistry,CHEM,268,Environmental Science,Fan Epperson,$122.79,Psychology: Understanding the Mind
+Mathematics,MATH,964,Public Speaking,Shoshana Rewbottom,$81.38,Sociology in the Modern World
+Biology,BIOL,953,Computer Science 101,Obed Deakan,$98.94,Mathematics: A Practical Approach
+Computer Science,COMP,833,Creative Writing Workshop,Arne Avis,$72.20,Chemistry for Beginners
+Computer Science,COMP,733,Public Speaking,Marchall Biggans,$139.65,Mathematics: A Practical Approach
+Mathematics,MATH,795,Public Speaking,Ted Tuma,$115.21,Introduction to Biology
+Biology,BIOL,342,Introduction to Economics,Felix Lechelle,$96.19,Business Ethics and Leadership
+Mathematics,MATH,858,Public Speaking,Donny Sallowaye,$94.40,Sociology in the Modern World
+Computer Science,COMP,909,Creative Writing Workshop,Dolli Edington,$55.31,Psychology: Understanding the Mind
+Computer Science,COMP,798,Music Theory,Miquela Clues,$104.99,Sociology in the Modern World
+English,ENGL,476,Introduction to Economics,Chrissy Joney,$62.87,History of Ancient Civilizations
+English,ENGL,959,Public Speaking,Celinda Talby,$136.53,Introduction to Biology
+Mathematics,MATH,756,Mathematics for Business,Rolf Narey,$69.94,Computer Science Fundamentals
+English,ENGL,423,History of Art,Dorry Leads,$96.36,Computer Science Fundamentals
+English,ENGL,591,History of Art,Orsa Fripps,$126.39,Literature Through the Ages
+Mathematics,MATH,735,Computer Science 101,Ofella Giordano,$139.06,Sociology in the Modern World
+History,HIST,746,Creative Writing Workshop,Josias Wrout,$61.16,Mathematics: A Practical Approach
+Mathematics,MATH,513,Introduction to Economics,August Jaffray,$143.19,Physics: Concepts and Applications
+Biology,BIOL,822,Music Theory,Rodney Klimecki,$94.05,Literature Through the Ages
+Biology,BIOL,383,Music Theory,Benedikt Lisamore,$117.32,Chemistry for Beginners
+History,HIST,190,Introduction to Psychology,Artemus Gobeau,$35.78,Psychology: Understanding the Mind
+Chemistry,CHEM,502,Public Speaking,Edouard Wurst,$136.41,Computer Science Fundamentals
+Computer Science,COMP,122,Introduction to Sociology,Raymund Ferraron,$84.39,Business Ethics and Leadership
+Chemistry,CHEM,575,Environmental Science,Tamqrah Edbrooke,$85.36,Physics: Concepts and Applications
+Chemistry,CHEM,981,History of Art,Jania Nicolls,$47.50,Business Ethics and Leadership
+Chemistry,CHEM,236,Mathematics for Business,Orelie Fitchen,$135.78,History of Ancient Civilizations
+Computer Science,COMP,312,Public Speaking,Hal Guerner,$111.83,Business Ethics and Leadership
+English,ENGL,840,Computer Science 101,Archaimbaud Sharrock,$82.21,Mathematics: A Practical Approach
+Computer Science,COMP,318,Creative Writing Workshop,Sutherlan Sustins,$99.70,Physics: Concepts and Applications
+English,ENGL,296,Introduction to Psychology,Jayne Hewlings,$74.07,Physics: Concepts and Applications
+Mathematics,MATH,867,Mathematics for Business,Raye Throughton,$100.48,Business Ethics and Leadership
+Mathematics,MATH,271,Computer Science 101,Dorothee Garlick,$34.30,Psychology: Understanding the Mind
+History,HIST,387,Introduction to Sociology,Guenna Durrell,$61.62,Computer Science Fundamentals
+Biology,BIOL,342,Environmental Science,Viviyan Scotting,$102.87,Mathematics: A Practical Approach
+History,HIST,349,Music Theory,Rudie Giacubbo,$53.61,Psychology: Understanding the Mind
+Computer Science,COMP,613,Introduction to Economics,Jacob Ruane,$124.81,Literature Through the Ages
+History,HIST,493,Public Speaking,Asher Duke,$136.39,Introduction to Biology
+Biology,BIOL,911,Music Theory,Cozmo Hayhow,$136.34,Psychology: Understanding the Mind
+History,HIST,444,Environmental Science,Irving Gentile,$93.99,Mathematics: A Practical Approach
+Computer Science,COMP,312,Music Theory,Ali Welfare,$65.93,History of Ancient Civilizations
+Chemistry,CHEM,632,Introduction to Psychology,Kelley Govier,$84.40,Chemistry for Beginners
+Biology,BIOL,430,Music Theory,Cortney Barajaz,$90.03,Physics: Concepts and Applications
+Computer Science,COMP,328,Mathematics for Business,Darcee Bartomeu,$94.55,Physics: Concepts and Applications
+Mathematics,MATH,251,Introduction to Sociology,Jarrett Reeks,$84.84,Chemistry for Beginners
+Biology,BIOL,738,Introduction to Sociology,Cele Hopfner,$36.91,Mathematics: A Practical Approach
+Biology,BIOL,203,Creative Writing Workshop,Milissent Checkley,$61.81,Literature Through the Ages
+Chemistry,CHEM,111,Introduction to Psychology,Carolynn Simonato,$31.35,Psychology: Understanding the Mind
+Chemistry,CHEM,784,History of Art,Ansley Coughan,$39.91,Literature Through the Ages
+Biology,BIOL,333,Introduction to Psychology,Susette Moreinu,$124.79,Literature Through the Ages
+History,HIST,992,Introduction to Psychology,Logan Cluelow,$65.94,Chemistry for Beginners
+Computer Science,COMP,614,Environmental Science,Pail Bouskill,$34.48,Sociology in the Modern World
+Computer Science,COMP,170,Introduction to Sociology,Filmer Petworth,$39.17,Physics: Concepts and Applications
+Computer Science,COMP,335,Introduction to Economics,Marlon Bonome,$30.29,Literature Through the Ages
+Biology,BIOL,525,Environmental Science,Benedicta Aylott,$124.96,Sociology in the Modern World
+Computer Science,COMP,301,Music Theory,Kaja Kingsnorth,$43.54,Introduction to Biology
+Computer Science,COMP,624,Public Speaking,Nissy Kike,$84.75,Computer Science Fundamentals
+History,HIST,557,Mathematics for Business,Simonne Longcake,$87.98,Sociology in the Modern World
+English,ENGL,154,Introduction to Psychology,Dell Lauthian,$147.09,Psychology: Understanding the Mind
+Computer Science,COMP,560,Public Speaking,Ravi Armin,$118.10,Physics: Concepts and Applications
+Mathematics,MATH,268,Environmental Science,Sibeal Henniger,$115.34,Chemistry for Beginners
+Chemistry,CHEM,287,Mathematics for Business,Cchaddie Petasch,$40.52,Introduction to Biology
+English,ENGL,239,Public Speaking,Sigismondo Blagburn,$121.42,Psychology: Understanding the Mind
+Computer Science,COMP,405,History of Art,Jo-ann Bissatt,$133.34,Computer Science Fundamentals
+English,ENGL,592,Computer Science 101,Rubia Tappor,$139.33,Business Ethics and Leadership
+Computer Science,COMP,483,Mathematics for Business,Wyndham Bank,$88.67,Mathematics: A Practical Approach
+Computer Science,COMP,841,Computer Science 101,Sile Garwill,$136.85,Literature Through the Ages
+English,ENGL,702,Mathematics for Business,Jaymee Hills,$122.19,Literature Through the Ages
+History,HIST,435,Introduction to Economics,Ingrid Arnhold,$55.36,Introduction to Biology
+English,ENGL,727,Public Speaking,Tiffany Simper,$39.90,Physics: Concepts and Applications
+Mathematics,MATH,620,Creative Writing Workshop,Ophelia Bachanski,$43.92,Business Ethics and Leadership
+English,ENGL,636,Introduction to Psychology,Tobe Theodore,$128.55,Literature Through the Ages
+Computer Science,COMP,634,Creative Writing Workshop,Barn Kitchinham,$98.69,History of Ancient Civilizations
+Mathematics,MATH,753,Creative Writing Workshop,Ann-marie Tamplin,$33.03,Mathematics: A Practical Approach
+Biology,BIOL,910,Computer Science 101,Wandis Elleton,$61.42,Chemistry for Beginners
+English,ENGL,510,Introduction to Sociology,Ashlin Brittain,$140.81,Mathematics: A Practical Approach
+Chemistry,CHEM,890,Creative Writing Workshop,Siusan Petkov,$144.82,Mathematics: A Practical Approach
+Chemistry,CHEM,178,Public Speaking,Page Barkes,$60.30,Psychology: Understanding the Mind
+Chemistry,CHEM,880,Introduction to Psychology,Esta Brownlow,$127.39,Introduction to Biology
+English,ENGL,847,Music Theory,Jenine Benoiton,$33.49,Literature Through the Ages
+Mathematics,MATH,403,Music Theory,Lorie Wybrew,$108.16,Computer Science Fundamentals
+Biology,BIOL,880,Music Theory,Franchot Karpeev,$69.29,Chemistry for Beginners
+Biology,BIOL,493,History of Art,Andra Brumbie,$98.57,Mathematics: A Practical Approach
+History,HIST,708,Computer Science 101,Atlanta Whitley,$46.14,Sociology in the Modern World
+Computer Science,COMP,330,Introduction to Psychology,Gail Rennicks,$101.06,Chemistry for Beginners
+English,ENGL,781,Creative Writing Workshop,Jed Fison,$136.08,Computer Science Fundamentals
+English,ENGL,538,Environmental Science,Nap Bly,$65.53,Physics: Concepts and Applications
+Chemistry,CHEM,530,History of Art,Husain Janks,$67.14,Physics: Concepts and Applications
+Computer Science,COMP,661,Mathematics for Business,Joanne Estable,$90.21,Mathematics: A Practical Approach
+Biology,BIOL,144,Computer Science 101,Herold Patrono,$40.57,Literature Through the Ages
+History,HIST,848,Introduction to Economics,Alena Checcucci,$65.51,Physics: Concepts and Applications
+History,HIST,360,Environmental Science,Dottie Toke,$30.52,Introduction to Biology
+English,ENGL,558,Creative Writing Workshop,Amaleta Tuft,$103.45,Literature Through the Ages
+Mathematics,MATH,887,Computer Science 101,Rodolph Viall,$145.48,Sociology in the Modern World
+Biology,BIOL,808,History of Art,Juli Arnald,$76.14,Mathematics: A Practical Approach
+Biology,BIOL,509,Computer Science 101,Livvie Clough,$93.41,Psychology: Understanding the Mind
+English,ENGL,150,Public Speaking,Carlye Deverell,$93.87,Physics: Concepts and Applications
+Biology,BIOL,548,Mathematics for Business,Joanie Louis,$83.36,Physics: Concepts and Applications
+Mathematics,MATH,124,Creative Writing Workshop,Melonie Hodcroft,$138.63,Literature Through the Ages
+History,HIST,486,Public Speaking,Carolee Putton,$100.69,Chemistry for Beginners
+English,ENGL,391,Environmental Science,Donnajean Maughan,$124.29,Introduction to Biology
+Computer Science,COMP,788,Public Speaking,Karee Taysbil,$122.10,History of Ancient Civilizations
+Biology,BIOL,123,Environmental Science,Luci Darling,$125.89,Mathematics: A Practical Approach
+History,HIST,554,Introduction to Psychology,Mareah Livesay,$53.22,Psychology: Understanding the Mind
+Chemistry,CHEM,986,Environmental Science,Charin Guidoni,$115.46,Introduction to Biology
+History,HIST,367,History of Art,Bibi Enright,$128.31,Business Ethics and Leadership
+Computer Science,COMP,792,Mathematics for Business,Antonio Mitford,$134.27,Chemistry for Beginners
+Biology,BIOL,188,Mathematics for Business,Nelli Brundle,$72.57,Business Ethics and Leadership
+English,ENGL,395,Creative Writing Workshop,Cordie Brusby,$132.64,Business Ethics and Leadership
+History,HIST,184,Creative Writing Workshop,Blakeley Sugarman,$104.53,Introduction to Biology
+Mathematics,MATH,578,Environmental Science,Willa Hayen,$78.59,Mathematics: A Practical Approach
+Mathematics,MATH,605,History of Art,Demetre Marishenko,$146.83,History of Ancient Civilizations
+Computer Science,COMP,827,Introduction to Psychology,Elenore Prattington,$34.04,Sociology in the Modern World
+English,ENGL,361,Introduction to Economics,Debor Foden,$111.29,Chemistry for Beginners
+Mathematics,MATH,556,Mathematics for Business,Appolonia D'Abbot-Doyle,$63.69,Psychology: Understanding the Mind
+Computer Science,COMP,732,Environmental Science,Rafaelita Geke,$31.29,Introduction to Biology
+Mathematics,MATH,654,History of Art,Saw Meiner,$81.04,Introduction to Biology
+Chemistry,CHEM,912,Creative Writing Workshop,Laurice Stanbro,$92.18,Sociology in the Modern World
+History,HIST,957,History of Art,Charlton Battleson,$132.37,Sociology in the Modern World
+English,ENGL,674,Introduction to Economics,Ricca Manville,$59.73,History of Ancient Civilizations
+Chemistry,CHEM,643,Public Speaking,Les Deinhard,$86.80,History of Ancient Civilizations
+History,HIST,305,Introduction to Economics,Clive Seneschal,$71.61,Psychology: Understanding the Mind
+Chemistry,CHEM,771,Introduction to Sociology,Tonia Allsep,$112.88,Mathematics: A Practical Approach
+Computer Science,COMP,299,Computer Science 101,Camey Hassey,$130.81,Literature Through the Ages
+Mathematics,MATH,493,Mathematics for Business,Locke Lauritzen,$94.95,Literature Through the Ages
+Chemistry,CHEM,144,Computer Science 101,Sig Wash,$32.96,Computer Science Fundamentals
+History,HIST,993,Introduction to Economics,Geri Monksfield,$140.19,History of Ancient Civilizations
+Mathematics,MATH,535,Creative Writing Workshop,Zelma Seaborne,$109.93,Introduction to Biology
+Mathematics,MATH,127,Introduction to Sociology,Nita Foxley,$51.01,Introduction to Biology
+Biology,BIOL,405,Introduction to Economics,Fletch Leinthall,$108.13,Business Ethics and Leadership
+Biology,BIOL,303,Public Speaking,Nananne Matchett,$118.44,Physics: Concepts and Applications
+Computer Science,COMP,874,Computer Science 101,Windham Lambrechts,$47.32,Literature Through the Ages
+History,HIST,811,Introduction to Sociology,Nathanial Pellant,$103.48,Introduction to Biology
+English,ENGL,701,Introduction to Economics,Lorraine Taylo,$120.86,Physics: Concepts and Applications
+Biology,BIOL,670,Music Theory,Barby Pedrocchi,$98.87,Psychology: Understanding the Mind
+Biology,BIOL,920,Computer Science 101,Merci Josephsen,$56.08,Business Ethics and Leadership
+Chemistry,CHEM,560,Environmental Science,Vincenz Haulkham,$79.48,Literature Through the Ages
+Chemistry,CHEM,260,Environmental Science,Clifford Currer,$132.93,Physics: Concepts and Applications
+History,HIST,333,Introduction to Psychology,Monroe Stephenson,$53.51,Business Ethics and Leadership
+Chemistry,CHEM,684,Introduction to Psychology,Lucien Dimitresco,$61.60,Chemistry for Beginners
+English,ENGL,453,Introduction to Economics,Daven Doram,$44.11,Chemistry for Beginners
+Biology,BIOL,687,Computer Science 101,Kort Kupper,$88.09,History of Ancient Civilizations
+History,HIST,309,Music Theory,Roxy Plose,$131.81,Psychology: Understanding the Mind
+Computer Science,COMP,551,History of Art,Torry Gittins,$125.43,Physics: Concepts and Applications
+English,ENGL,549,Environmental Science,Lorna McCowen,$49.77,Literature Through the Ages
+Mathematics,MATH,358,Introduction to Sociology,Caritta Ebbotts,$89.89,Introduction to Biology
+Chemistry,CHEM,494,History of Art,Candide Prantoni,$56.23,Mathematics: A Practical Approach
+Biology,BIOL,327,Introduction to Psychology,Wren Cabell,$122.76,Literature Through the Ages
+History,HIST,678,Computer Science 101,Bobbe Bosket,$127.68,Literature Through the Ages
+Mathematics,MATH,960,Public Speaking,Sim Ruffle,$78.48,Mathematics: A Practical Approach
+English,ENGL,377,Creative Writing Workshop,Faustine Dahl,$45.62,Business Ethics and Leadership
+Chemistry,CHEM,596,History of Art,Faber Hedan,$55.93,History of Ancient Civilizations
+Biology,BIOL,500,History of Art,Gian Iseton,$114.22,Introduction to Biology
+English,ENGL,173,Introduction to Economics,Zacharia Pennell,$102.26,Psychology: Understanding the Mind
+Chemistry,CHEM,601,Introduction to Sociology,Guy Chezelle,$58.99,Psychology: Understanding the Mind
+English,ENGL,493,Computer Science 101,Aili Adame,$105.89,Sociology in the Modern World
+Chemistry,CHEM,809,Introduction to Sociology,Yvonne Borkett,$36.14,Sociology in the Modern World
+Mathematics,MATH,125,Environmental Science,Donnamarie Appleyard,$59.65,Literature Through the Ages
+Biology,BIOL,363,Music Theory,Filmore Longfoot,$78.88,Literature Through the Ages
+Biology,BIOL,958,Computer Science 101,Stacia Mariet,$95.25,Chemistry for Beginners
+Chemistry,CHEM,816,History of Art,Aliza Cornillot,$80.84,Introduction to Biology
+Computer Science,COMP,136,Creative Writing Workshop,Lauren Blei,$139.83,Sociology in the Modern World
+Mathematics,MATH,515,Creative Writing Workshop,Chrystal Harland,$80.74,Computer Science Fundamentals
+English,ENGL,253,Creative Writing Workshop,Jody Munby,$119.10,Psychology: Understanding the Mind
+Chemistry,CHEM,613,Public Speaking,Renie Dillestone,$36.39,Psychology: Understanding the Mind
+Biology,BIOL,929,History of Art,Salomo Drinkhill,$107.90,Psychology: Understanding the Mind
+Mathematics,MATH,585,Computer Science 101,Caroline Timny,$137.93,Psychology: Understanding the Mind
+Computer Science,COMP,216,Introduction to Economics,Giorgia Nehlsen,$145.73,Psychology: Understanding the Mind
+Computer Science,COMP,220,Introduction to Psychology,Morrie Jantot,$126.48,History of Ancient Civilizations
+Biology,BIOL,669,Introduction to Economics,Ardella Shreenan,$91.09,Business Ethics and Leadership
+Biology,BIOL,417,Introduction to Economics,Nicky Chase,$139.59,Psychology: Understanding the Mind
+Chemistry,CHEM,189,Introduction to Psychology,Mollee Eldrett,$108.15,Mathematics: A Practical Approach
+English,ENGL,829,History of Art,Franky Ogbourne,$71.86,Computer Science Fundamentals
+Chemistry,CHEM,663,Environmental Science,Babbette McCurt,$85.54,Psychology: Understanding the Mind
+History,HIST,847,Introduction to Psychology,Alleen Andrini,$135.20,Introduction to Biology
+Mathematics,MATH,266,Environmental Science,Shell Nealy,$41.70,Psychology: Understanding the Mind
+History,HIST,111,Computer Science 101,Ernesto Drivers,$117.39,Computer Science Fundamentals
+Computer Science,COMP,945,Creative Writing Workshop,Annecorinne Hush,$35.33,Mathematics: A Practical Approach
+Chemistry,CHEM,542,Public Speaking,Morry Syred,$95.14,Chemistry for Beginners
+Mathematics,MATH,895,Mathematics for Business,Pollyanna Foss,$136.62,Computer Science Fundamentals
+Chemistry,CHEM,636,Mathematics for Business,Harriot Redgewell,$55.89,Sociology in the Modern World
+English,ENGL,427,Music Theory,Nikos de Lloyd,$131.32,History of Ancient Civilizations
+Mathematics,MATH,323,Introduction to Psychology,Heywood Lewnden,$55.42,Literature Through the Ages
+Computer Science,COMP,547,Mathematics for Business,Bidget Clerc,$44.67,Mathematics: A Practical Approach
+History,HIST,718,Environmental Science,Loralyn Hegges,$124.66,Computer Science Fundamentals
+History,HIST,449,Creative Writing Workshop,Gabey Lorey,$149.83,Introduction to Biology
+English,ENGL,343,Introduction to Sociology,Anders Bussey,$141.99,Literature Through the Ages
+Mathematics,MATH,209,Introduction to Economics,Suzann Strike,$82.69,Business Ethics and Leadership
+Mathematics,MATH,386,Creative Writing Workshop,Kendal Garvey,$88.09,Literature Through the Ages
+History,HIST,607,Introduction to Psychology,Hammad Brecknock,$51.22,Psychology: Understanding the Mind
+Biology,BIOL,876,Computer Science 101,Cos Rove,$142.53,Computer Science Fundamentals
+English,ENGL,127,Mathematics for Business,Marietta Gilmartin,$98.13,History of Ancient Civilizations
+Computer Science,COMP,602,Introduction to Economics,Averil Etchingham,$143.92,Computer Science Fundamentals
+History,HIST,442,Computer Science 101,Maddie Cuschieri,$48.90,Computer Science Fundamentals
+English,ENGL,799,History of Art,Leigh Jagels,$31.77,Introduction to Biology
+History,HIST,245,History of Art,Caralie Bus,$111.76,Literature Through the Ages
+History,HIST,863,Introduction to Psychology,Inge McLemon,$74.82,Psychology: Understanding the Mind
+History,HIST,134,Creative Writing Workshop,Koren Livock,$119.08,Mathematics: A Practical Approach
+Computer Science,COMP,770,Public Speaking,Giordano Bowry,$118.34,Physics: Concepts and Applications
+English,ENGL,436,Introduction to Psychology,Randolf Dashkovich,$64.64,Physics: Concepts and Applications
+History,HIST,931,Introduction to Sociology,Marv Broome,$103.16,Business Ethics and Leadership
+Computer Science,COMP,179,Creative Writing Workshop,Robin Rubenovic,$149.67,Literature Through the Ages
+Biology,BIOL,457,History of Art,Clayson Jonathon,$60.19,Introduction to Biology
+Biology,BIOL,494,Mathematics for Business,Kayley January 1st,$33.46,Business Ethics and Leadership
+Computer Science,COMP,353,Introduction to Sociology,Angelo Alliston,$30.09,History of Ancient Civilizations
+Biology,BIOL,482,Public Speaking,Elsworth Chretien,$137.18,Introduction to Biology
+English,ENGL,556,Music Theory,Alvina Wrathmell,$75.61,Computer Science Fundamentals
+Computer Science,COMP,701,Introduction to Sociology,Sula Rutledge,$107.88,Business Ethics and Leadership
+Mathematics,MATH,515,History of Art,Karylin Farington,$86.40,Chemistry for Beginners
+Mathematics,MATH,437,Introduction to Economics,Nan Foreman,$110.53,History of Ancient Civilizations
+English,ENGL,775,Environmental Science,Shanie Banane,$84.88,History of Ancient Civilizations
+Mathematics,MATH,534,Introduction to Psychology,Halsy Silcock,$93.58,Chemistry for Beginners
+History,HIST,280,Introduction to Sociology,Denice Ison,$105.25,Psychology: Understanding the Mind
+English,ENGL,286,Creative Writing Workshop,Rutger Mustard,$131.57,Computer Science Fundamentals
+Mathematics,MATH,692,Computer Science 101,Giavani Postlethwaite,$124.15,Sociology in the Modern World
+English,ENGL,127,Creative Writing Workshop,Graig Sidnall,$38.64,Introduction to Biology
+Chemistry,CHEM,527,Environmental Science,Cindra Tanby,$31.12,Physics: Concepts and Applications
+English,ENGL,774,Computer Science 101,Sanderson McSporrin,$70.12,Sociology in the Modern World
+Mathematics,MATH,309,History of Art,Ransell Gribbins,$46.33,Chemistry for Beginners
+Chemistry,CHEM,153,Introduction to Psychology,Stephannie Fury,$80.95,Chemistry for Beginners
+Biology,BIOL,799,Environmental Science,Garwood Donativo,$134.84,Literature Through the Ages
+Mathematics,MATH,789,History of Art,Simone Sussams,$87.09,Chemistry for Beginners
+Chemistry,CHEM,163,Public Speaking,Theresita Whitsun,$90.32,Introduction to Biology
+Mathematics,MATH,449,Introduction to Sociology,Melosa Shipston,$39.17,Business Ethics and Leadership
+Biology,BIOL,431,Environmental Science,Aidan Studman,$78.85,Physics: Concepts and Applications
+Computer Science,COMP,453,Environmental Science,Geordie Dimitriev,$92.53,Sociology in the Modern World
+Chemistry,CHEM,921,Music Theory,Odie Ciementini,$86.83,Computer Science Fundamentals
+History,HIST,485,History of Art,Simona Searchfield,$31.65,Introduction to Biology
+English,ENGL,700,Music Theory,Zeke Prichard,$89.06,History of Ancient Civilizations
+Biology,BIOL,468,Environmental Science,Merridie Duncan,$118.72,Physics: Concepts and Applications
+Mathematics,MATH,392,Introduction to Economics,Carolin Rosone,$65.27,Mathematics: A Practical Approach
+English,ENGL,149,Introduction to Psychology,Karia Topp,$126.50,Sociology in the Modern World
+History,HIST,546,Music Theory,Dickie Collyer,$80.26,Business Ethics and Leadership
+Chemistry,CHEM,885,Creative Writing Workshop,Tiena Winnard,$39.14,Literature Through the Ages
+English,ENGL,844,Introduction to Sociology,Gale Faires,$45.52,History of Ancient Civilizations
+Computer Science,COMP,178,Creative Writing Workshop,Rickey Rowsell,$124.68,Sociology in the Modern World
+Computer Science,COMP,944,Music Theory,Tracey Geoghegan,$131.18,Computer Science Fundamentals
+Chemistry,CHEM,390,Public Speaking,Alicia Pencot,$72.36,Mathematics: A Practical Approach
+Chemistry,CHEM,243,Computer Science 101,Tim Tompsett,$83.07,Chemistry for Beginners
+Computer Science,COMP,196,Computer Science 101,Diana Robottham,$129.96,Literature Through the Ages
+Biology,BIOL,152,Music Theory,Sarah Heyburn,$30.67,Computer Science Fundamentals
+English,ENGL,612,History of Art,Elena Brundell,$64.19,Literature Through the Ages
+Biology,BIOL,801,Introduction to Economics,Cathrine Hayhow,$145.15,Psychology: Understanding the Mind
+Computer Science,COMP,585,Mathematics for Business,Evita Chessor,$72.58,Chemistry for Beginners
+Computer Science,COMP,292,Introduction to Economics,Scotti Sallis,$142.67,Sociology in the Modern World
+Computer Science,COMP,778,Environmental Science,Ann-marie Bazely,$79.11,Business Ethics and Leadership
+Mathematics,MATH,524,Mathematics for Business,Mabel Bierling,$70.44,Physics: Concepts and Applications
+Chemistry,CHEM,115,Creative Writing Workshop,Alisander De Cleyne,$147.32,Business Ethics and Leadership
+English,ENGL,190,Music Theory,Eldridge Lerer,$109.95,Mathematics: A Practical Approach
+History,HIST,262,Creative Writing Workshop,Alexander Endle,$105.10,Computer Science Fundamentals
+Mathematics,MATH,620,Public Speaking,Yorke Dodimead,$84.18,Business Ethics and Leadership
+Biology,BIOL,295,Introduction to Sociology,Ginnifer Colvin,$65.01,Literature Through the Ages
+History,HIST,531,Public Speaking,Land Freed,$142.54,Chemistry for Beginners
+Chemistry,CHEM,142,Computer Science 101,Myles Beagley,$137.89,Business Ethics and Leadership
+History,HIST,286,History of Art,Cyndie Bowskill,$59.82,Psychology: Understanding the Mind
+History,HIST,793,Music Theory,Lester Grzeszczyk,$129.86,Literature Through the Ages
+Chemistry,CHEM,464,Introduction to Sociology,Granny Ferrero,$85.87,Psychology: Understanding the Mind
+Computer Science,COMP,364,Introduction to Sociology,Cam Alcott,$134.94,Business Ethics and Leadership
+Computer Science,COMP,739,Public Speaking,Randie Costen,$111.49,Physics: Concepts and Applications
+Biology,BIOL,912,History of Art,Chad Siviour,$38.79,Chemistry for Beginners
+Chemistry,CHEM,601,Computer Science 101,Susanna Leese,$82.16,Literature Through the Ages
+Mathematics,MATH,242,Environmental Science,Nolly Imos,$103.59,History of Ancient Civilizations
+Computer Science,COMP,588,Mathematics for Business,Roderich Pettengell,$64.45,Business Ethics and Leadership
+Mathematics,MATH,577,Environmental Science,Leona Peel,$41.42,Introduction to Biology
+History,HIST,107,Mathematics for Business,Lorraine Large,$108.28,Sociology in the Modern World
+Computer Science,COMP,791,Music Theory,Gabriele McGrirl,$89.85,Physics: Concepts and Applications
+Chemistry,CHEM,194,History of Art,Traver Quirk,$56.68,Business Ethics and Leadership
+Computer Science,COMP,781,Introduction to Sociology,Merell Wakelin,$90.71,Psychology: Understanding the Mind
+Chemistry,CHEM,279,Creative Writing Workshop,Leela Bramham,$140.42,Psychology: Understanding the Mind
+History,HIST,932,Introduction to Psychology,Joaquin Enrrico,$74.51,Psychology: Understanding the Mind
+Mathematics,MATH,564,Introduction to Psychology,Shell Quartly,$70.40,Mathematics: A Practical Approach
+Biology,BIOL,781,Introduction to Sociology,Hewie Jolliff,$97.14,History of Ancient Civilizations
+Biology,BIOL,445,Public Speaking,Oriana Benstead,$65.69,Business Ethics and Leadership
+Biology,BIOL,342,Introduction to Psychology,Arley Fuentes,$30.40,Introduction to Biology
+Biology,BIOL,225,Introduction to Economics,Donia Blakeney,$127.96,Physics: Concepts and Applications
+Biology,BIOL,417,Mathematics for Business,Charleen Garnett,$134.05,History of Ancient Civilizations
+Computer Science,COMP,240,Introduction to Sociology,Aggy Stitcher,$106.35,Literature Through the Ages
+Chemistry,CHEM,130,Introduction to Sociology,Pet Jakubovics,$61.90,History of Ancient Civilizations
+English,ENGL,116,Creative Writing Workshop,Ellen Crab,$77.22,Sociology in the Modern World
+Computer Science,COMP,392,Public Speaking,Cybil Peabody,$147.43,Chemistry for Beginners
+Computer Science,COMP,561,History of Art,Dorothy Chanson,$110.52,Psychology: Understanding the Mind
+History,HIST,508,Introduction to Sociology,Jobina Abrahamowitcz,$68.83,Sociology in the Modern World
+English,ENGL,971,Mathematics for Business,Ernest Vedyasov,$145.12,Psychology: Understanding the Mind
+Computer Science,COMP,142,Creative Writing Workshop,Frank Ferrarotti,$141.76,Physics: Concepts and Applications
+English,ENGL,208,Public Speaking,Daloris Gensavage,$34.91,Chemistry for Beginners
+History,HIST,350,Music Theory,Perren Kynd,$145.33,Business Ethics and Leadership
+Biology,BIOL,573,Introduction to Psychology,Morgan Blackshaw,$100.92,Computer Science Fundamentals
+Biology,BIOL,569,Creative Writing Workshop,Kalinda Poschel,$141.83,Psychology: Understanding the Mind
+English,ENGL,204,History of Art,Brendan Doutch,$43.57,History of Ancient Civilizations
+Mathematics,MATH,974,Introduction to Economics,Denys Kertess,$129.33,History of Ancient Civilizations
+Biology,BIOL,394,Introduction to Economics,Zebulen Stook,$116.32,Literature Through the Ages
+English,ENGL,900,Introduction to Sociology,Roman McHenry,$50.22,Computer Science Fundamentals
+Mathematics,MATH,955,Introduction to Economics,Karisa McKerton,$93.47,History of Ancient Civilizations
+Mathematics,MATH,987,Environmental Science,Dorothee Buscher,$136.22,Business Ethics and Leadership
+English,ENGL,722,Introduction to Psychology,Stormi Tremonte,$148.19,Sociology in the Modern World
+English,ENGL,649,Music Theory,Munmro Tointon,$140.16,Sociology in the Modern World
+Chemistry,CHEM,210,Computer Science 101,Masha Luetkemeyers,$102.72,Computer Science Fundamentals
+Computer Science,COMP,177,Introduction to Economics,Carlynne Arkill,$64.63,Mathematics: A Practical Approach
+Biology,BIOL,701,Environmental Science,Colman Pryde,$56.52,Psychology: Understanding the Mind
+History,HIST,220,Introduction to Economics,Eberto Finden,$37.36,Computer Science Fundamentals
+English,ENGL,702,Creative Writing Workshop,Luis Seivertsen,$107.89,Mathematics: A Practical Approach
+History,HIST,826,Introduction to Economics,Randee Zecchi,$120.45,Introduction to Biology
+Chemistry,CHEM,203,Mathematics for Business,Cori Salthouse,$107.61,Sociology in the Modern World
+Biology,BIOL,435,Computer Science 101,Orv Tumilty,$86.85,Physics: Concepts and Applications
+Chemistry,CHEM,523,Public Speaking,Phebe Mainson,$112.80,Literature Through the Ages
+Biology,BIOL,485,Introduction to Economics,Sybil Diehn,$121.32,History of Ancient Civilizations
+Chemistry,CHEM,279,Introduction to Sociology,Deedee Saundercock,$43.63,Psychology: Understanding the Mind
+Biology,BIOL,529,History of Art,Cora Feehan,$33.45,Sociology in the Modern World
+Chemistry,CHEM,577,Computer Science 101,Husain Finnes,$69.50,Business Ethics and Leadership
+Computer Science,COMP,620,Public Speaking,Cedric Hadgraft,$114.51,Introduction to Biology
+Biology,BIOL,818,Environmental Science,Marje Battrum,$62.72,Chemistry for Beginners
+Chemistry,CHEM,664,Public Speaking,Tiffany Copozio,$84.72,Computer Science Fundamentals
+History,HIST,602,Introduction to Sociology,Peyton Morad,$70.25,History of Ancient Civilizations
+Mathematics,MATH,436,Introduction to Economics,Hedwiga Brookwell,$52.25,History of Ancient Civilizations
+English,ENGL,305,Public Speaking,Kimberlee Nijs,$59.31,Literature Through the Ages
+English,ENGL,558,History of Art,Marillin Beeken,$73.16,Mathematics: A Practical Approach
+Computer Science,COMP,552,Creative Writing Workshop,Clarette Huband,$68.95,Sociology in the Modern World
+English,ENGL,216,Introduction to Psychology,Hendrick Hammor,$39.79,Sociology in the Modern World
+Chemistry,CHEM,244,Introduction to Psychology,Janet Thresher,$56.49,Literature Through the Ages
+English,ENGL,690,Environmental Science,Nate Altree,$142.44,Business Ethics and Leadership
+History,HIST,477,Creative Writing Workshop,Yvonne Redihough,$42.46,Mathematics: A Practical Approach
+Chemistry,CHEM,506,Music Theory,Sherman Lowless,$40.48,Psychology: Understanding the Mind
+Chemistry,CHEM,786,Creative Writing Workshop,Mendy Divill,$125.17,Mathematics: A Practical Approach
+History,HIST,240,Introduction to Economics,Angelita Grint,$63.25,Mathematics: A Practical Approach
+History,HIST,467,Introduction to Economics,Grantley Pedrol,$121.46,History of Ancient Civilizations
+History,HIST,451,Mathematics for Business,Collie Challicum,$146.20,Business Ethics and Leadership
+English,ENGL,880,Environmental Science,Sibel Kellaway,$147.58,Business Ethics and Leadership
+Computer Science,COMP,339,Computer Science 101,Leontine Rembrant,$128.27,Introduction to Biology
+History,HIST,603,Music Theory,Midge Silver,$77.56,Sociology in the Modern World
+English,ENGL,345,Mathematics for Business,Roseann Siward,$74.26,Physics: Concepts and Applications
+English,ENGL,734,History of Art,Valina Ferrini,$103.69,Business Ethics and Leadership
+Computer Science,COMP,542,Introduction to Psychology,Zuzana Eadington,$31.96,Business Ethics and Leadership
+History,HIST,325,Computer Science 101,Kareem Derrett,$40.85,Psychology: Understanding the Mind
+History,HIST,277,History of Art,Jeramie Noto,$120.43,History of Ancient Civilizations
+Biology,BIOL,119,Environmental Science,Carree Loton,$50.88,Sociology in the Modern World
+Mathematics,MATH,223,Computer Science 101,Sanson Meale,$140.09,Business Ethics and Leadership
+Mathematics,MATH,249,Public Speaking,Brandi Clancy,$107.75,Business Ethics and Leadership
+Biology,BIOL,864,Music Theory,Chicky Mulliss,$101.72,Psychology: Understanding the Mind
+History,HIST,485,Environmental Science,Seymour Tregona,$148.96,Literature Through the Ages
+Chemistry,CHEM,790,Introduction to Economics,Nichols Woodier,$86.07,Chemistry for Beginners
+Mathematics,MATH,861,Creative Writing Workshop,Liza Seignior,$129.47,Mathematics: A Practical Approach
+Mathematics,MATH,497,Environmental Science,Mathilde Henrion,$67.32,Chemistry for Beginners
+English,ENGL,468,Environmental Science,Marlo Faughnan,$117.96,Psychology: Understanding the Mind
+English,ENGL,838,Introduction to Economics,Coraline Meade,$132.94,Literature Through the Ages
+Biology,BIOL,507,Computer Science 101,Gerianne Swift,$82.74,Psychology: Understanding the Mind
+English,ENGL,947,Computer Science 101,Rube Whitsey,$40.48,Literature Through the Ages
+Computer Science,COMP,311,Environmental Science,Lettie Tiltman,$82.18,Psychology: Understanding the Mind
+Computer Science,COMP,701,Introduction to Psychology,Martha Stallebrass,$132.99,Physics: Concepts and Applications
+Computer Science,COMP,287,Introduction to Sociology,Daffie Chesson,$80.90,Chemistry for Beginners
+English,ENGL,612,Introduction to Economics,Fee Collcutt,$101.00,Physics: Concepts and Applications
+History,HIST,820,Public Speaking,Portia Avramovic,$58.47,Sociology in the Modern World
+Mathematics,MATH,781,Creative Writing Workshop,Wolfie Vidler,$53.81,Physics: Concepts and Applications
+History,HIST,557,Environmental Science,Roderick Bison,$87.96,Business Ethics and Leadership
+English,ENGL,997,Mathematics for Business,Cassondra Frondt,$102.35,Chemistry for Beginners
+Computer Science,COMP,919,History of Art,Abigael Dwine,$109.08,Physics: Concepts and Applications
+History,HIST,883,Public Speaking,Kendre Nobriga,$41.98,Business Ethics and Leadership
+History,HIST,429,Creative Writing Workshop,Mellisa Wrenn,$123.62,Introduction to Biology
+Mathematics,MATH,130,Introduction to Economics,Conrade Bowerbank,$89.88,Computer Science Fundamentals
+Computer Science,COMP,460,Introduction to Sociology,Percival Pardew,$132.30,Literature Through the Ages
+History,HIST,389,Introduction to Psychology,Marianna Debnam,$109.14,Chemistry for Beginners
+History,HIST,970,Introduction to Sociology,Hamish Trappe,$43.39,Literature Through the Ages
+Computer Science,COMP,421,Introduction to Psychology,Monte Mauser,$142.82,Computer Science Fundamentals
+Chemistry,CHEM,637,Computer Science 101,Hill Dyshart,$135.52,Mathematics: A Practical Approach
+Computer Science,COMP,741,Public Speaking,Ania Massen,$94.17,Mathematics: A Practical Approach
+Computer Science,COMP,180,Computer Science 101,Druci Jaggard,$44.43,Physics: Concepts and Applications
+Biology,BIOL,643,History of Art,Joseito Petrosian,$109.26,Computer Science Fundamentals
+History,HIST,107,Introduction to Sociology,Daniele Jentle,$118.55,Introduction to Biology
+Computer Science,COMP,449,Mathematics for Business,Chandler Tingle,$137.18,Introduction to Biology
+English,ENGL,126,Environmental Science,Saw Totman,$148.23,Sociology in the Modern World
+History,HIST,460,Introduction to Sociology,Hasheem Sach,$39.73,Psychology: Understanding the Mind
+Computer Science,COMP,809,History of Art,Happy Culy,$119.01,Physics: Concepts and Applications
+History,HIST,169,History of Art,Benny Paddon,$122.56,History of Ancient Civilizations
+History,HIST,521,Introduction to Sociology,Eydie Duinbleton,$97.70,Business Ethics and Leadership
+History,HIST,959,Public Speaking,Coleen Von Der Empten,$113.40,Computer Science Fundamentals
+Computer Science,COMP,331,Computer Science 101,Aube Trott,$140.60,Business Ethics and Leadership
+Biology,BIOL,242,Computer Science 101,Glennis Philipsen,$131.59,Business Ethics and Leadership
+English,ENGL,464,Music Theory,Addison Dunbavin,$83.24,Psychology: Understanding the Mind
+History,HIST,313,Introduction to Psychology,Sosanna Boughen,$99.37,Chemistry for Beginners
+Computer Science,COMP,384,Introduction to Psychology,Andy Glenwright,$146.37,Psychology: Understanding the Mind
+Biology,BIOL,558,Creative Writing Workshop,Andromache Coughlin,$128.78,Literature Through the Ages
+Mathematics,MATH,439,Computer Science 101,Barnaby De Micoli,$116.85,Literature Through the Ages
+Chemistry,CHEM,225,History of Art,Hester Auten,$60.71,Mathematics: A Practical Approach
+English,ENGL,281,Music Theory,Madelina Quimby,$137.12,Sociology in the Modern World
+English,ENGL,802,Public Speaking,Morie Rapper,$37.62,Computer Science Fundamentals
+English,ENGL,573,Mathematics for Business,Fin Sinton,$94.83,Business Ethics and Leadership
+Mathematics,MATH,448,Music Theory,Maximo Pennrington,$79.50,Business Ethics and Leadership
+Mathematics,MATH,554,Introduction to Sociology,Phillida Eidelman,$60.88,Chemistry for Beginners
+Biology,BIOL,710,Public Speaking,Reynold Baudichon,$111.33,Physics: Concepts and Applications
+Chemistry,CHEM,997,Introduction to Sociology,Demetris Schlag,$90.23,Psychology: Understanding the Mind
+History,HIST,775,Music Theory,Jess Goroni,$81.40,Chemistry for Beginners
+Biology,BIOL,886,Public Speaking,Giacinta Gritsaev,$40.10,Computer Science Fundamentals
+History,HIST,706,Public Speaking,Halley Zorzoni,$64.36,History of Ancient Civilizations
+Chemistry,CHEM,289,Public Speaking,Brannon Nuttall,$51.35,Sociology in the Modern World
+History,HIST,282,Introduction to Economics,Theresina Tapenden,$124.30,Computer Science Fundamentals
+History,HIST,425,Introduction to Psychology,Gerty Topp,$100.54,History of Ancient Civilizations
+Computer Science,COMP,836,Public Speaking,Vance Jodlkowski,$97.25,Sociology in the Modern World
+Biology,BIOL,576,Introduction to Economics,Jewelle Pilbeam,$111.71,Business Ethics and Leadership
+Biology,BIOL,439,Music Theory,Etienne Moors,$115.55,Psychology: Understanding the Mind
+Biology,BIOL,482,Mathematics for Business,Daphne Durkin,$111.98,Introduction to Biology
+Mathematics,MATH,450,Mathematics for Business,Thorpe Fiddler,$137.86,Psychology: Understanding the Mind
+Mathematics,MATH,905,Environmental Science,Maridel Dhennin,$109.66,Mathematics: A Practical Approach
+Computer Science,COMP,831,Introduction to Psychology,Shae Labrone,$58.52,Mathematics: A Practical Approach
+Biology,BIOL,445,Public Speaking,Val Trytsman,$83.71,Mathematics: A Practical Approach
+History,HIST,534,Introduction to Psychology,Gothart Nassi,$136.98,Introduction to Biology
+English,ENGL,769,Environmental Science,Shellysheldon Grolmann,$119.73,Computer Science Fundamentals
+Biology,BIOL,730,Computer Science 101,Cristine Habergham,$119.78,Mathematics: A Practical Approach
+Biology,BIOL,173,Public Speaking,Kennedy Rossey,$81.77,Chemistry for Beginners
+Biology,BIOL,529,Environmental Science,Agna Mc Faul,$75.11,History of Ancient Civilizations
+Computer Science,COMP,398,Introduction to Sociology,Bentley Unitt,$135.95,Mathematics: A Practical Approach
+Computer Science,COMP,754,Introduction to Economics,Manolo Zanardii,$120.61,Computer Science Fundamentals
+Chemistry,CHEM,705,Music Theory,Isidro Pulster,$106.37,Literature Through the Ages
+English,ENGL,910,Introduction to Sociology,Lola Hurdis,$90.38,Psychology: Understanding the Mind
+Computer Science,COMP,839,Creative Writing Workshop,Harvey Waren,$92.51,Chemistry for Beginners
+History,HIST,679,Introduction to Psychology,Karlyn Arrington,$32.22,Computer Science Fundamentals
+History,HIST,190,Creative Writing Workshop,Anneliese Ruddy,$34.18,Business Ethics and Leadership
+English,ENGL,958,Mathematics for Business,Maddie Barkly,$131.89,Computer Science Fundamentals
+Chemistry,CHEM,455,Introduction to Psychology,Karalee Bailiss,$139.80,Computer Science Fundamentals
+Chemistry,CHEM,973,Environmental Science,Myriam Connor,$100.82,Business Ethics and Leadership
+Biology,BIOL,834,Introduction to Economics,Marchall Augar,$149.78,Mathematics: A Practical Approach
+English,ENGL,113,Public Speaking,Patton Flux,$55.84,Literature Through the Ages
+Computer Science,COMP,143,Introduction to Psychology,Berty Tremouille,$119.79,Business Ethics and Leadership
+Biology,BIOL,183,Creative Writing Workshop,Cart Gallihawk,$59.41,Literature Through the Ages
+Chemistry,CHEM,318,History of Art,Dukey Syfax,$95.38,Mathematics: A Practical Approach
+Biology,BIOL,738,Music Theory,Cassie Girogetti,$146.73,History of Ancient Civilizations
+History,HIST,492,Introduction to Economics,Alissa Summerley,$125.37,Introduction to Biology
+Mathematics,MATH,184,Creative Writing Workshop,Amie Ayllett,$130.43,Physics: Concepts and Applications
+Computer Science,COMP,196,Mathematics for Business,Atalanta Ruske,$121.45,Mathematics: A Practical Approach
+History,HIST,367,Environmental Science,Chaunce Callingham,$115.33,Literature Through the Ages
+Chemistry,CHEM,793,Computer Science 101,Scotty Moyle,$65.05,Psychology: Understanding the Mind
+English,ENGL,405,History of Art,Llywellyn Caldecutt,$102.64,Sociology in the Modern World
+English,ENGL,446,Creative Writing Workshop,Liza Shere,$43.25,Psychology: Understanding the Mind
+Chemistry,CHEM,988,Public Speaking,Shelba Blyde,$116.65,Business Ethics and Leadership
+Biology,BIOL,946,History of Art,Kaile Pocknell,$104.43,Computer Science Fundamentals
+Mathematics,MATH,862,Creative Writing Workshop,Jana Skentelbury,$95.39,Psychology: Understanding the Mind
+Biology,BIOL,802,Computer Science 101,Osgood Tittershill,$149.98,Introduction to Biology
+History,HIST,810,Introduction to Psychology,Oliviero Gunn,$90.03,Physics: Concepts and Applications
+Chemistry,CHEM,648,History of Art,Ardenia Van Velde,$91.71,Literature Through the Ages
+Mathematics,MATH,757,Introduction to Psychology,Wendall Dedman,$91.79,Physics: Concepts and Applications
+English,ENGL,618,Computer Science 101,Linc Fazzioli,$144.95,Introduction to Biology
+Biology,BIOL,738,Introduction to Economics,Base Kohneke,$33.26,Business Ethics and Leadership
+History,HIST,356,Creative Writing Workshop,Lily Lyddiatt,$146.53,Sociology in the Modern World
+Chemistry,CHEM,156,Mathematics for Business,Robby Muckle,$79.00,Computer Science Fundamentals
+Chemistry,CHEM,985,Creative Writing Workshop,Gennie Sexten,$110.47,Psychology: Understanding the Mind
+Biology,BIOL,383,Introduction to Economics,Arline Melrose,$110.24,Physics: Concepts and Applications
+English,ENGL,584,Introduction to Economics,Kirby Winterson,$47.11,History of Ancient Civilizations
+Biology,BIOL,225,Music Theory,Una Tidswell,$111.46,Sociology in the Modern World
+Biology,BIOL,479,Introduction to Economics,Ahmed Hollyer,$143.91,Sociology in the Modern World
+Computer Science,COMP,204,Mathematics for Business,Aldo Sneezem,$36.28,Psychology: Understanding the Mind
+History,HIST,928,History of Art,Yurik Moller,$108.72,Psychology: Understanding the Mind
+History,HIST,893,Music Theory,Ariana Kuschek,$51.36,Chemistry for Beginners
+History,HIST,872,Environmental Science,Vittorio Tout,$60.18,Physics: Concepts and Applications
+Chemistry,CHEM,244,Introduction to Psychology,Ella Dayment,$89.77,Psychology: Understanding the Mind
+Biology,BIOL,248,Creative Writing Workshop,Etan O' Borne,$91.21,Mathematics: A Practical Approach
+History,HIST,592,Environmental Science,Brana O'Neil,$90.02,Physics: Concepts and Applications
+Computer Science,COMP,879,Introduction to Sociology,Timofei Oliveira,$144.52,History of Ancient Civilizations
+English,ENGL,424,Creative Writing Workshop,Matthiew Thal,$39.15,Business Ethics and Leadership
+Biology,BIOL,358,History of Art,Adelind Aery,$96.13,Introduction to Biology
+History,HIST,583,Computer Science 101,Verine Fasler,$118.91,Psychology: Understanding the Mind
+Computer Science,COMP,431,History of Art,Olvan Bagshaw,$40.13,Physics: Concepts and Applications
+History,HIST,320,Introduction to Sociology,Jillana Livens,$72.32,Physics: Concepts and Applications
+Chemistry,CHEM,221,Environmental Science,Julian Everest,$58.44,Sociology in the Modern World
+Chemistry,CHEM,446,Computer Science 101,Rodrigo Carus,$72.52,History of Ancient Civilizations
+Chemistry,CHEM,369,Creative Writing Workshop,Cherice Gillinghams,$121.42,Psychology: Understanding the Mind
+Mathematics,MATH,132,Introduction to Sociology,Lenore Monks,$68.41,Literature Through the Ages
+Biology,BIOL,819,Public Speaking,Murielle Trymme,$66.14,Introduction to Biology
+Chemistry,CHEM,774,History of Art,Pris Bleasdale,$58.72,Mathematics: A Practical Approach
+History,HIST,597,Creative Writing Workshop,Horatio Cockings,$97.50,Computer Science Fundamentals
+English,ENGL,534,Introduction to Economics,Wenonah Caldwell,$126.70,Literature Through the Ages
+Biology,BIOL,299,Music Theory,Rosabel Rollins,$143.70,Computer Science Fundamentals
+Computer Science,COMP,884,History of Art,Flori Schirak,$97.81,Chemistry for Beginners
+Biology,BIOL,598,History of Art,Sherlocke Gosnay,$86.96,Mathematics: A Practical Approach
+English,ENGL,368,Introduction to Economics,Chrystal Digwood,$114.62,History of Ancient Civilizations
+Chemistry,CHEM,127,Mathematics for Business,Frazer Spoure,$61.98,Introduction to Biology
+Computer Science,COMP,523,History of Art,Rowland Almak,$43.54,Introduction to Biology
+Mathematics,MATH,400,Introduction to Psychology,Theadora Kiezler,$99.52,Chemistry for Beginners
+English,ENGL,196,Introduction to Economics,Emlyn Worms,$42.79,Literature Through the Ages
+History,HIST,897,Music Theory,Galven Cruz,$56.33,Business Ethics and Leadership
+Computer Science,COMP,750,Introduction to Economics,Ashbey Derks,$100.05,Chemistry for Beginners
+Computer Science,COMP,690,Public Speaking,Helyn Brandon,$108.31,Mathematics: A Practical Approach
+Biology,BIOL,438,Public Speaking,Steward Theyer,$109.04,History of Ancient Civilizations
+History,HIST,975,History of Art,Mirabella Thayre,$79.00,Sociology in the Modern World
+Chemistry,CHEM,503,Music Theory,Chariot Phin,$57.10,Business Ethics and Leadership
+Mathematics,MATH,538,Introduction to Psychology,Yancy Golden of Ireland,$138.30,Literature Through the Ages
+History,HIST,935,Introduction to Economics,Daniela Rawet,$72.82,Sociology in the Modern World
+Computer Science,COMP,577,Introduction to Sociology,Mickie Losty,$120.96,Sociology in the Modern World
+Chemistry,CHEM,115,History of Art,Evie Blincoe,$62.38,Computer Science Fundamentals
+Mathematics,MATH,311,Music Theory,Yehudit Pilsworth,$80.88,History of Ancient Civilizations
+Biology,BIOL,206,Computer Science 101,Durante Sage,$82.57,Business Ethics and Leadership
+History,HIST,783,Introduction to Economics,Deidre Prynne,$53.71,Mathematics: A Practical Approach
+Computer Science,COMP,293,Introduction to Psychology,Ada Kelledy,$78.68,History of Ancient Civilizations
+English,ENGL,267,Environmental Science,Shelli Scrafton,$123.45,Introduction to Biology
+Mathematics,MATH,469,Introduction to Economics,Sawyere Renfield,$123.22,History of Ancient Civilizations
+English,ENGL,206,Introduction to Sociology,Griffie Arnason,$132.00,Introduction to Biology
+English,ENGL,536,History of Art,Bibby Gittens,$112.60,Mathematics: A Practical Approach
+History,HIST,593,History of Art,Aime Phillipp,$38.27,Literature Through the Ages
+Mathematics,MATH,846,Public Speaking,Em Ramel,$62.83,Literature Through the Ages
+History,HIST,985,Introduction to Economics,Kathryn Smeuin,$115.21,Business Ethics and Leadership
+Chemistry,CHEM,639,Music Theory,Ondrea Quickfall,$101.37,Mathematics: A Practical Approach
+Mathematics,MATH,914,History of Art,Valencia Deal,$142.34,Literature Through the Ages
+History,HIST,553,Creative Writing Workshop,Renaldo Nassey,$112.69,History of Ancient Civilizations
+History,HIST,543,Public Speaking,Glenna Eilhersen,$68.52,Mathematics: A Practical Approach
+Biology,BIOL,339,Environmental Science,Matias Kroch,$75.61,Chemistry for Beginners
+Computer Science,COMP,491,Public Speaking,Kerri Eborall,$120.89,Business Ethics and Leadership
+Biology,BIOL,200,Introduction to Sociology,Lucias Attoe,$32.32,Physics: Concepts and Applications
+Mathematics,MATH,248,Environmental Science,Rustin Mattingley,$42.41,Chemistry for Beginners
+Chemistry,CHEM,199,Computer Science 101,Tomi Harwood,$80.45,Computer Science Fundamentals
+Mathematics,MATH,638,Computer Science 101,Chevy Woffenden,$82.11,Introduction to Biology
+Chemistry,CHEM,371,Computer Science 101,Brandy Fadell,$82.14,Computer Science Fundamentals
+Biology,BIOL,334,Environmental Science,Yehudi Burton,$67.07,Business Ethics and Leadership
+Biology,BIOL,149,Computer Science 101,Leslie Balaisot,$93.31,History of Ancient Civilizations
+Mathematics,MATH,745,Introduction to Sociology,Jacinta Sharrocks,$143.84,Physics: Concepts and Applications
+History,HIST,357,Mathematics for Business,Roxine Hallen,$132.07,Chemistry for Beginners
+Biology,BIOL,539,Introduction to Psychology,Peadar Scarth,$108.03,Business Ethics and Leadership
+Computer Science,COMP,305,Introduction to Sociology,Zebadiah Stamps,$51.03,Computer Science Fundamentals
+Chemistry,CHEM,947,Introduction to Sociology,Giorgia Mulles,$45.25,Physics: Concepts and Applications
+Mathematics,MATH,484,Introduction to Economics,Howey Prin,$71.82,Mathematics: A Practical Approach
+Biology,BIOL,533,Introduction to Economics,Melania Aburrow,$90.21,Business Ethics and Leadership
+Chemistry,CHEM,583,History of Art,Rakel Pardey,$92.87,Psychology: Understanding the Mind
+Mathematics,MATH,806,Public Speaking,Flory Deekes,$53.40,Psychology: Understanding the Mind
+English,ENGL,826,Music Theory,Nicola Vasilchenko,$70.76,Computer Science Fundamentals
+Computer Science,COMP,927,Introduction to Sociology,Frank Deeney,$143.41,Business Ethics and Leadership
+Chemistry,CHEM,926,Public Speaking,Cchaddie Haggeth,$105.88,Mathematics: A Practical Approach
+Mathematics,MATH,636,History of Art,Jannelle Rome,$102.70,Introduction to Biology
+Biology,BIOL,790,Computer Science 101,Benjamin Behr,$54.37,History of Ancient Civilizations
+English,ENGL,547,Mathematics for Business,Donalt Sinnocke,$78.27,Literature Through the Ages
+Chemistry,CHEM,804,Music Theory,Salem O'Shesnan,$112.98,History of Ancient Civilizations
+Computer Science,COMP,612,Mathematics for Business,Harv Bohike,$104.94,Computer Science Fundamentals
+History,HIST,789,Music Theory,Web Acock,$102.42,Mathematics: A Practical Approach
+Computer Science,COMP,261,Music Theory,Blythe Galliford,$142.96,Chemistry for Beginners
+English,ENGL,363,Creative Writing Workshop,Filide Linscott,$52.33,Computer Science Fundamentals
+Biology,BIOL,169,Introduction to Economics,Claude Kabsch,$91.01,Computer Science Fundamentals
+English,ENGL,434,History of Art,Lora Clubb,$46.17,Sociology in the Modern World
+Computer Science,COMP,937,Introduction to Psychology,Dallas Larmouth,$103.34,Psychology: Understanding the Mind
+English,ENGL,376,Environmental Science,Otes Ablett,$117.40,Physics: Concepts and Applications
+Computer Science,COMP,916,Creative Writing Workshop,Rowen Budleigh,$138.98,Business Ethics and Leadership
+Chemistry,CHEM,220,Introduction to Psychology,Cecilia Pendle,$95.89,Mathematics: A Practical Approach
+Computer Science,COMP,701,Introduction to Sociology,Orelie Remer,$101.92,History of Ancient Civilizations
+Mathematics,MATH,959,Computer Science 101,Calli Pegram,$100.30,Introduction to Biology
+Chemistry,CHEM,629,Introduction to Sociology,Gannie Venneur,$47.32,Physics: Concepts and Applications
+Mathematics,MATH,957,Public Speaking,Sarge Allery,$112.82,Business Ethics and Leadership
+Chemistry,CHEM,492,Environmental Science,Gillan Leport,$113.71,Physics: Concepts and Applications
+Computer Science,COMP,883,Introduction to Sociology,Antin Crossfeld,$135.31,Chemistry for Beginners
+History,HIST,237,Computer Science 101,Louie Huggard,$93.12,Computer Science Fundamentals
+Biology,BIOL,391,Environmental Science,Zedekiah Gilhool,$119.33,Chemistry for Beginners
+Chemistry,CHEM,118,Environmental Science,Lorne Kilfether,$69.84,Mathematics: A Practical Approach
+Biology,BIOL,538,Introduction to Economics,Caesar Skeggs,$104.58,Introduction to Biology
+History,HIST,837,Music Theory,Antonietta Becken,$47.44,Chemistry for Beginners
+English,ENGL,930,Mathematics for Business,Rik Stucksbury,$148.25,Physics: Concepts and Applications
+Mathematics,MATH,656,Environmental Science,Tucky Akerman,$104.98,Sociology in the Modern World
+Chemistry,CHEM,624,Public Speaking,Bev Arendt,$48.73,History of Ancient Civilizations
+History,HIST,204,Public Speaking,Genia Kelshaw,$128.92,Psychology: Understanding the Mind
+Chemistry,CHEM,895,Public Speaking,Jarrod Yerson,$118.79,Chemistry for Beginners
+Computer Science,COMP,468,Introduction to Sociology,Olin Slate,$33.98,History of Ancient Civilizations
+Biology,BIOL,597,Mathematics for Business,Cass Bottom,$58.09,Mathematics: A Practical Approach
+English,ENGL,131,Creative Writing Workshop,Ellette Schlagman,$122.76,Physics: Concepts and Applications
+English,ENGL,648,Mathematics for Business,Aile Brosetti,$83.47,Mathematics: A Practical Approach
+English,ENGL,749,Introduction to Economics,Linnell Gruszka,$57.65,Sociology in the Modern World
+History,HIST,214,Introduction to Sociology,Wenda Jacklin,$94.35,Computer Science Fundamentals
+Chemistry,CHEM,470,Mathematics for Business,Vevay Leaburn,$114.59,Literature Through the Ages
+Mathematics,MATH,779,Introduction to Psychology,Daven Desquesnes,$62.40,Mathematics: A Practical Approach
+Chemistry,CHEM,921,Public Speaking,Merrile Palmer,$101.48,History of Ancient Civilizations
+English,ENGL,640,Public Speaking,Stefanie Mussettini,$58.61,Introduction to Biology
+Mathematics,MATH,286,Introduction to Economics,Eunice Bath,$63.95,Introduction to Biology
+Chemistry,CHEM,813,Mathematics for Business,Zachery Notley,$141.22,Business Ethics and Leadership
+English,ENGL,605,History of Art,Stevy Maylam,$108.15,Literature Through the Ages
+English,ENGL,531,Environmental Science,Bridget Baigrie,$45.65,Literature Through the Ages
+Chemistry,CHEM,419,Introduction to Psychology,Antonie McComiskie,$77.74,Introduction to Biology
+English,ENGL,402,Introduction to Sociology,Denise Kalderon,$43.65,Computer Science Fundamentals
+Biology,BIOL,828,Environmental Science,Hanni Mabley,$120.95,Sociology in the Modern World
+History,HIST,618,Public Speaking,Hildagarde Jacklin,$134.08,History of Ancient Civilizations
+English,ENGL,824,Introduction to Economics,Stanford Catford,$118.06,Chemistry for Beginners
+Computer Science,COMP,106,Creative Writing Workshop,Donny Veneur,$91.57,Chemistry for Beginners
+English,ENGL,676,Music Theory,Pancho Ferbrache,$97.75,History of Ancient Civilizations
+English,ENGL,157,Computer Science 101,Vivianna Bick,$87.13,Business Ethics and Leadership
+Mathematics,MATH,597,Music Theory,Nikki Finlator,$92.12,History of Ancient Civilizations
+Computer Science,COMP,199,Creative Writing Workshop,Asher Blackie,$125.75,Literature Through the Ages
+Biology,BIOL,553,Introduction to Economics,Reece Minot,$65.03,Psychology: Understanding the Mind
+Biology,BIOL,858,Public Speaking,Aylmar Flips,$105.10,Psychology: Understanding the Mind
+Chemistry,CHEM,681,Introduction to Economics,Tildi Dunhill,$42.47,Business Ethics and Leadership
+Biology,BIOL,818,Mathematics for Business,Tara Matic,$78.77,Physics: Concepts and Applications
+Mathematics,MATH,455,Environmental Science,Bonnibelle Samsonsen,$113.87,Business Ethics and Leadership
+Biology,BIOL,148,Computer Science 101,Donica Plaster,$92.28,Business Ethics and Leadership
+English,ENGL,282,Mathematics for Business,Chauncey Gannicott,$79.99,Chemistry for Beginners
+History,HIST,255,Public Speaking,Tiena Bard,$42.24,Chemistry for Beginners
+Biology,BIOL,440,History of Art,Karrie Ankrett,$134.73,Literature Through the Ages
+Biology,BIOL,404,Music Theory,Rosemary Cattini,$73.84,Business Ethics and Leadership
+Biology,BIOL,149,Mathematics for Business,Jethro Cornall,$101.30,History of Ancient Civilizations
+Biology,BIOL,474,Music Theory,Romona Mengue,$50.33,Sociology in the Modern World
+English,ENGL,348,Creative Writing Workshop,Drucie Dillingstone,$72.45,Literature Through the Ages
+Mathematics,MATH,411,Computer Science 101,Consolata Bareford,$112.88,Psychology: Understanding the Mind
+History,HIST,373,Creative Writing Workshop,Brenden Leal,$130.99,History of Ancient Civilizations
+Biology,BIOL,845,Introduction to Sociology,Rosaleen Gossage,$50.86,Sociology in the Modern World
+Computer Science,COMP,873,Introduction to Psychology,Jessamine Eudall,$69.10,Mathematics: A Practical Approach
+Biology,BIOL,553,Introduction to Psychology,Morley Chasemoore,$119.16,Literature Through the Ages
+Biology,BIOL,308,Computer Science 101,Raimondo Hamlen,$107.12,History of Ancient Civilizations
+Biology,BIOL,407,Introduction to Economics,Abigail Vignaux,$127.63,Chemistry for Beginners
+Computer Science,COMP,205,History of Art,Arliene Champneys,$121.62,History of Ancient Civilizations
+English,ENGL,498,Creative Writing Workshop,Johnette Goldstein,$143.19,Computer Science Fundamentals
+Mathematics,MATH,843,Mathematics for Business,Leonelle Decort,$135.18,History of Ancient Civilizations
+English,ENGL,229,History of Art,Maryanna Prosh,$91.75,Business Ethics and Leadership
+Computer Science,COMP,982,Mathematics for Business,Tannie Bleas,$69.62,Introduction to Biology
+Chemistry,CHEM,307,Environmental Science,Kristos Lapere,$113.26,Chemistry for Beginners
+English,ENGL,863,Introduction to Psychology,Duane Zanelli,$37.28,Mathematics: A Practical Approach
+English,ENGL,659,Introduction to Sociology,Kyla Hamlyn,$62.20,History of Ancient Civilizations
+Mathematics,MATH,521,Creative Writing Workshop,Rayner Dahle,$64.55,Sociology in the Modern World
+Computer Science,COMP,666,Public Speaking,Stern Southorn,$61.07,Mathematics: A Practical Approach
+History,HIST,527,Introduction to Psychology,Fulvia Clampin,$69.41,Chemistry for Beginners
+English,ENGL,714,Introduction to Psychology,Romain Bonefant,$88.36,Literature Through the Ages
+Computer Science,COMP,563,Environmental Science,Brew Shawl,$65.49,Business Ethics and Leadership
+Biology,BIOL,627,Environmental Science,Binny Jezard,$53.85,Physics: Concepts and Applications
+Mathematics,MATH,272,Introduction to Economics,Ikey Kellett,$46.33,Chemistry for Beginners
+Mathematics,MATH,206,Environmental Science,Haleigh Tow,$62.03,Business Ethics and Leadership
+Mathematics,MATH,610,Environmental Science,Giselle Grieve,$94.73,Sociology in the Modern World
+Computer Science,COMP,242,Mathematics for Business,Lilas Finden,$71.06,Business Ethics and Leadership
+Biology,BIOL,575,Music Theory,Ezra Brehault,$135.53,Sociology in the Modern World
+Mathematics,MATH,129,Introduction to Sociology,Beret Carmel,$93.17,Introduction to Biology
+Biology,BIOL,469,Public Speaking,Kally Rubinchik,$105.05,Physics: Concepts and Applications
+Chemistry,CHEM,965,Introduction to Psychology,Hans Sprigin,$55.98,Introduction to Biology
+History,HIST,766,Introduction to Economics,Grete Tonkin,$133.69,Sociology in the Modern World
+Chemistry,CHEM,422,Introduction to Sociology,Jere Beadnall,$135.98,Literature Through the Ages
+Chemistry,CHEM,315,Public Speaking,Devinne Gouldthorpe,$43.67,Psychology: Understanding the Mind
+Biology,BIOL,408,Computer Science 101,Isador Cordsen,$34.30,Chemistry for Beginners
+English,ENGL,182,Introduction to Psychology,Bartlet Filson,$120.11,Literature Through the Ages
+Biology,BIOL,840,Public Speaking,Kennie Catchpole,$117.14,History of Ancient Civilizations
+History,HIST,606,Environmental Science,Olly Ockleshaw,$109.27,History of Ancient Civilizations
+History,HIST,671,Introduction to Sociology,Georgette Till,$38.97,Psychology: Understanding the Mind
+Biology,BIOL,723,Introduction to Economics,Luis Dinse,$144.22,History of Ancient Civilizations
+History,HIST,675,Creative Writing Workshop,Francois Skakunas,$69.58,Literature Through the Ages
